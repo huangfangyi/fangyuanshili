@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="1.0.1"><source path="C:\Users\ustc\Desktop\fanyuanshili\FYSLapp\build\intermediates\exploded-aar\com.android.support\multidex-instrumentation\1.0.1\assets"/></dataSet><dataSet config="main"><source path="C:\Users\ustc\Desktop\fanyuanshili\FYSLapp\src\androidTest\assets"/><source path="C:\Users\ustc\Desktop\fanyuanshili\FYSLapp\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

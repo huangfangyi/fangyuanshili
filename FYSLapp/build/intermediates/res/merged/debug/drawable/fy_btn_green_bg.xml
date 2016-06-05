@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- 三种状态三种颜色，按下，可用 ，不可用 -->
+    <item android:drawable="@drawable/fy_corner_3" android:state_pressed="true"/>
+ 
+    <item android:drawable="@drawable/fy_corner_1" android:state_enabled="false"/>
+    <item android:drawable="@drawable/fy_corner_2" android:state_enabled="true"/>
+    <item android:drawable="@drawable/fy_corner_1"/>
+
+</selector>

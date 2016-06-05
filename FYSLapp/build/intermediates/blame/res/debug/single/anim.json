@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\head_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\head_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\voice_from_icon.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\voice_from_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\voice_to_icon.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\voice_to_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\HX_Lib\\unspecified\\res\\anim\\fade_out.xml"
+    }
+]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-w820dp\\em_dimens.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-w820dp\\em_dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 305,
+                        "startOffset": 312,
                         "endColumn": 57,
-                        "endOffset": 358
+                        "endOffset": 365
                     }
                 }
             }

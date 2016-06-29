@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "outputFile": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 95
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,
-                        "startOffset": 419,
+                        "startOffset": 429,
                         "endColumn": 41,
-                        "endOffset": 459
+                        "endOffset": 469
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 143
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
-                        "startOffset": 52,
+                        "startOffset": 54,
                         "endColumn": 44,
-                        "endOffset": 95
+                        "endOffset": 97
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
-                        "startOffset": 593,
+                        "startOffset": 607,
                         "endColumn": 58,
-                        "endOffset": 650
+                        "endOffset": 664
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
-                        "startOffset": 323,
+                        "startOffset": 331,
                         "endColumn": 53,
-                        "endOffset": 375
+                        "endOffset": 383
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 304
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
-                        "startOffset": 500,
+                        "startOffset": 512,
                         "endColumn": 38,
-                        "endOffset": 537
+                        "endOffset": 549
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 352
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
-                        "startOffset": 142,
+                        "startOffset": 146,
                         "endColumn": 44,
-                        "endOffset": 185
+                        "endOffset": 189
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 394
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
-                        "startOffset": 461,
+                        "startOffset": 472,
                         "endColumn": 38,
-                        "endOffset": 498
+                        "endOffset": 509
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 442
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
-                        "startOffset": 278,
+                        "startOffset": 285,
                         "endColumn": 44,
-                        "endOffset": 321
+                        "endOffset": 328
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 499
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
-                        "startOffset": 539,
+                        "startOffset": 552,
                         "endColumn": 53,
-                        "endOffset": 591
+                        "endOffset": 604
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
-                        "startOffset": 187,
+                        "startOffset": 192,
                         "endColumn": 45,
-                        "endOffset": 231
+                        "endOffset": 236
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
-                        "startOffset": 377,
+                        "startOffset": 386,
                         "endColumn": 41,
-                        "endOffset": 417
+                        "endOffset": 426
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 641
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 1,
-                        "startOffset": 233,
+                        "startOffset": 239,
                         "endColumn": 44,
-                        "endOffset": 276
+                        "endOffset": 282
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 689
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
-                        "startOffset": 97,
+                        "startOffset": 100,
                         "endColumn": 44,
-                        "endOffset": 140
+                        "endOffset": 143
                     }
                 }
             },
@@ -258,7 +258,7 @@
                     "endOffset": 750
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\library\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\library\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 817
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\library\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\library\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 882
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\library\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\library\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -315,13 +315,13 @@
                     "endOffset": 940
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 1,
-                        "startOffset": 295,
+                        "startOffset": 301,
                         "endColumn": 54,
-                        "endOffset": 348
+                        "endOffset": 354
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1000
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
-                        "startOffset": 238,
+                        "startOffset": 243,
                         "endColumn": 56,
-                        "endOffset": 293
+                        "endOffset": 298
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1066
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
-                        "startOffset": 52,
+                        "startOffset": 54,
                         "endColumn": 62,
-                        "endOffset": 113
+                        "endOffset": 115
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 1123
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
-                        "startOffset": 184,
+                        "startOffset": 188,
                         "endColumn": 53,
-                        "endOffset": 236
+                        "endOffset": 240
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 1185
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
-                        "startOffset": 709,
+                        "startOffset": 721,
                         "endColumn": 58,
-                        "endOffset": 766
+                        "endOffset": 778
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 1253
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
-                        "startOffset": 768,
+                        "startOffset": 781,
                         "endColumn": 64,
-                        "endOffset": 831
+                        "endOffset": 844
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 1330
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
-                        "startOffset": 350,
+                        "startOffset": 357,
                         "endColumn": 73,
-                        "endOffset": 422
+                        "endOffset": 429
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 1402
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
-                        "startOffset": 115,
+                        "startOffset": 118,
                         "endColumn": 68,
-                        "endOffset": 182
+                        "endOffset": 185
                     }
                 }
             },
@@ -467,13 +467,13 @@
                     "endOffset": 1474
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 640,
+                        "startOffset": 651,
                         "endColumn": 71,
-                        "endOffset": 707
+                        "endOffset": 718
                     }
                 }
             },
@@ -486,13 +486,13 @@
                     "endOffset": 1539
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
-                        "startOffset": 833,
+                        "startOffset": 847,
                         "endColumn": 61,
-                        "endOffset": 893
+                        "endOffset": 907
                     }
                 }
             },
@@ -505,13 +505,13 @@
                     "endOffset": 1611
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
-                        "startOffset": 424,
+                        "startOffset": 432,
                         "endColumn": 68,
-                        "endOffset": 491
+                        "endOffset": 499
                     }
                 }
             },
@@ -524,13 +524,13 @@
                     "endOffset": 1690
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 1,
-                        "startOffset": 895,
+                        "startOffset": 910,
                         "endColumn": 75,
-                        "endOffset": 969
+                        "endOffset": 984
                     }
                 }
             },
@@ -543,13 +543,13 @@
                     "endOffset": 1766
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
-                        "startOffset": 493,
+                        "startOffset": 502,
                         "endColumn": 72,
-                        "endOffset": 564
+                        "endOffset": 573
                     }
                 }
             },
@@ -562,13 +562,13 @@
                     "endOffset": 1840
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,
-                        "startOffset": 566,
+                        "startOffset": 576,
                         "endColumn": 70,
-                        "endOffset": 635
+                        "endOffset": 645
                     }
                 }
             }

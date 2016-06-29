@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\values-iw\\values-iw.xml",
+        "outputFile": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\values-iw\\values-iw.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 118
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\library\\unspecified\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\library\\unspecified\\res\\values-iw\\values-iw.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 185
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\library\\unspecified\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\library\\unspecified\\res\\values-iw\\values-iw.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 256
                 },
                 "from": {
-                    "file": "C:\\Users\\ustc\\Desktop\\fanyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fanyuanshili\\library\\unspecified\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\library\\unspecified\\res\\values-iw\\values-iw.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -1,2 +1,2 @@
-include ':HX_Lib',':FYSLapp'
-include ':library'
+include ':HX_Lib',':FYSLapp',':library'
+

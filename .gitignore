@@ -17,9 +17,7 @@ out/
 .gradle/
 build/
 .idea
-FYSLapp/build/
-HX_Lib/build/
-library/build/
+
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -42,3 +40,6 @@ captures/
 *.jks
 gotye.keystore
 
+/FYSLapp/build/
+/HX_Lib/build/
+/library/build/

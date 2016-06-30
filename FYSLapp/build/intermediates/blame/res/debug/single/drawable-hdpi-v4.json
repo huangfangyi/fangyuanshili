@@ -528,12 +528,12 @@
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable-hdpi-v4\\ease_chatto_voice_playing_f2.png"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_erweima.png",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-hdpi\\find_erweima.png"
-    },
-    {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable-hdpi-v4\\ee_10.png"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_erweima.png",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-hdpi\\find_erweima.png"
     },
     {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_021_cover.png",
@@ -1080,12 +1080,12 @@
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable-hdpi-v4\\ease_search_clear_normal.png"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_013_cover.png",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-hdpi\\icon_013_cover.png"
-    },
-    {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png",
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_013_cover.png",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-hdpi\\icon_013_cover.png"
     },
     {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatto_bg_focused.9.png",

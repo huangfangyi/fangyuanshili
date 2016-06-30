@@ -319,4 +319,10 @@
     <string name="group_nick">聊天室名称:</string>
     <string name="group_owner">群主：</string>
     <string name="user_removed_from_group">你已经被移除群</string>
+    <string name="tab_people">人</string>
+    <string name="tab_things">事</string>
+    <string name="tab_chat">聊</string>
+    <string name="tab_contact">友</string>
+    <string name="tab_profile">我</string>
+
 </resources>

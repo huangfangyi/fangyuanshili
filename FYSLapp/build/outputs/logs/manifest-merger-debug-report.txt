@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:2:1-487:12
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:2:1-434:12
 	package
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:3:5-27
 		INJECTED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml
@@ -137,7 +137,7 @@ ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\Androi
 	android:name
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:44:22-75
 application
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:46:5-485:19
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:46:5-432:19
 MERGED from [fangyuanshili0630:library:unspecified] C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\build\intermediates\exploded-aar\fangyuanshili0630\library\unspecified\AndroidManifest.xml:11:5-20
 	android:label
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:50:9-41
@@ -148,7 +148,7 @@ MERGED from [fangyuanshili0630:library:unspecified] C:\Users\ustc\Desktop\Androi
 	android:name
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:47:9-52
 activity#com.fysl.app.main.MainActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:51:9-57:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:51:9-56:64
 	android:screenOrientation
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:54:13-49
 	android:launchMode
@@ -160,620 +160,620 @@ ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\Androi
 	android:name
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:52:13-58
 activity#com.fysl.app.main.SplashActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:60:9-69:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:59:9-68:20
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:62:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:61:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:63:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:62:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:61:13-60
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:60:13-60
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:64:13-68:29
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:63:13-67:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:65:17-69
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:64:17-69
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:65:25-66
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:64:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:67:17-77
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:66:17-77
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:67:27-74
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:66:27-74
 activity#com.fysl.app.main.MyQrActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:70:9-75:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:69:9-73:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:72:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:71:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:74:13-52
-	android:theme
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:73:13-52
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:72:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:71:13-58
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:70:13-58
 activity#com.fysl.app.main.ThingDetailActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:76:9-81:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:74:9-78:79
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:78:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:76:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:80:13-67
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:78:13-67
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:79:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:77:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:77:13-65
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:75:13-65
 activity#com.fysl.app.main.UserDetailActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:82:9-87:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:79:9-83:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:84:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:81:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:86:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:83:13-52
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:85:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:82:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:83:13-64
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:80:13-64
 activity#com.fysl.app.main.MyThingsActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:88:9-93:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:84:9-88:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:90:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:86:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:92:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:88:13-52
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:91:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:87:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:89:13-62
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:85:13-62
 activity#com.fysl.app.main.BigImageActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:94:9-99:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:89:9-93:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:96:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:91:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:98:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:93:13-52
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:97:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:92:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:95:13-62
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:90:13-62
 activity#com.fysl.app.main.LoginActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:102:9-107:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:96:9-100:80
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:104:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:98:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:106:13-68
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:100:13-68
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:105:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:99:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:103:13-59
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:97:13-59
 activity#com.zbar.scan.ScanCaptureAct
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:108:9-112:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:101:9-104:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:110:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:103:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:111:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:104:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:109:13-56
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:102:13-56
 activity#com.fysl.app.main.RegisterActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:115:9-120:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:107:9-111:80
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:117:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:109:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:119:13-68
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:111:13-68
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:118:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:110:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:116:13-62
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:108:13-62
 activity#com.fysl.app.main.ChatActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:122:9-128:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:113:9-118:67
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:125:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:116:13-49
 	android:launchMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:124:13-44
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:115:13-44
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:127:13-55
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:118:13-55
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:126:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:117:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:123:13-58
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:114:13-58
 activity#com.hyphenate.applib.ui.ChatActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:130:9-136:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:120:9-125:67
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:133:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:123:13-49
 	android:launchMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:132:13-43
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:122:13-43
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:135:13-55
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:125:13-55
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:134:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:124:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:131:13-64
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:121:13-64
 activity#com.fysl.app.ui.AddContactActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:138:9-143:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:127:9-131:67
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:129:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:131:13-55
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:130:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:128:13-62
+activity#com.fysl.app.ui.GroupDetailsActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:133:9-136:64
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:135:13-49
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:136:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:134:13-64
+activity#com.fysl.app.ui.GroupsActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:138:9-142:64
 	android:screenOrientation
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:140:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:142:13-55
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:142:13-52
 	android:theme
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:141:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:139:13-62
-activity#com.fysl.app.ui.GroupDetailsActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:145:9-149:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:147:13-49
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:148:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:146:13-64
-activity#com.fysl.app.ui.GroupsActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:151:9-156:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:153:13-49
-	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:155:13-52
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:154:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:152:13-58
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:139:13-58
 activity#com.fysl.app.ui.ChatRoomActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:157:9-162:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:143:9-147:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:159:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:145:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:161:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:147:13-52
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:160:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:146:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:158:13-60
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:144:13-60
 activity#com.fysl.app.ui.ChatRoomDetailsActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:164:9-168:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:149:9-152:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:166:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:151:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:167:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:152:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:165:13-67
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:150:13-67
 activity#com.fysl.app.ui.NewGroupActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:171:9-176:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:155:9-159:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:173:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:157:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:175:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:159:13-52
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:174:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:158:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:172:13-60
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:156:13-60
 activity#com.fysl.app.ui.ExitGroupDialog
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:178:9-182:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:161:9-164:67
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:163:13-49
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:164:13-55
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:162:13-59
+activity#com.fysl.app.ui.GroupPickContactsActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:166:9-170:64
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:168:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:170:13-52
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:169:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:167:13-69
+activity#com.hyphenate.easeui.ui.EaseBaiduMapActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:172:9-175:64
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:174:13-49
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:175:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:173:13-72
+activity#com.fysl.app.ui.NewFriendsMsgActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:178:9-181:64
 	android:screenOrientation
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:180:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:181:13-55
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:181:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:179:13-59
-activity#com.fysl.app.ui.GroupPickContactsActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:184:9-189:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:186:13-49
-	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:188:13-52
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:187:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:185:13-69
-activity#com.hyphenate.easeui.ui.EaseBaiduMapActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:191:9-195:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:193:13-49
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:194:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:192:13-72
-activity#com.fysl.app.ui.NewFriendsMsgActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:198:9-202:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:200:13-49
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:201:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:199:13-65
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:179:13-65
 activity#com.fysl.app.ui.ForwardMessageActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:204:9-209:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:183:9-187:64
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:185:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:187:13-52
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:186:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:184:13-66
+activity#com.fysl.app.ui.ContextMenuActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:189:9-192:61
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:191:13-49
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:192:13-49
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:190:13-63
+activity#com.hyphenate.easeui.ui.EaseShowBigImageActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:194:9-197:64
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:196:13-49
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:197:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:195:13-76
+activity#com.hyphenate.easeui.ui.EaseShowNormalFileActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:199:9-202:64
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:201:13-49
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:202:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:200:13-78
+activity#com.fysl.app.ui.BlacklistActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:204:9-207:64
 	android:screenOrientation
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:206:13-49
-	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:208:13-52
 	android:theme
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:207:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:205:13-66
-activity#com.fysl.app.ui.ContextMenuActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:211:9-215:20
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:205:13-61
+activity#com.fysl.app.ui.PublicGroupsActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:210:9-214:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:213:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:212:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:214:13-52
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:214:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:213:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:212:13-63
-activity#com.hyphenate.easeui.ui.EaseShowBigImageActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:217:9-221:20
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:211:13-64
+activity#com.fysl.app.ui.PublicChatRoomsActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:215:9-219:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:219:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:217:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:219:13-52
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:220:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:218:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:218:13-76
-activity#com.hyphenate.easeui.ui.EaseShowNormalFileActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:223:9-227:20
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:216:13-67
+activity#com.fysl.app.ui.VoiceCallActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:222:9-226:60
 	android:screenOrientation
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:225:13-49
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:226:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:224:13-78
-activity#com.fysl.app.ui.BlacklistActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:229:9-233:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:231:13-49
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:232:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:230:13-61
-activity#com.fysl.app.ui.PublicGroupsActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:236:9-241:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:238:13-49
-	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:240:13-52
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:239:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:237:13-64
-activity#com.fysl.app.ui.PublicChatRoomsActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:242:9-247:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:244:13-49
-	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:246:13-52
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:245:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:243:13-67
-activity#com.fysl.app.ui.VoiceCallActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:250:9-255:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:253:13-49
 	android:launchMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:252:13-44
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:224:13-44
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:254:13-48
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:226:13-48
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:251:13-61
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:223:13-61
 activity#com.fysl.app.ui.VideoCallActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:257:9-263:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:228:9-233:64
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:232:13-49
+	android:launchMode
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:231:13-44
+	android:configChanges
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:230:13-74
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:233:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:229:13-61
+activity#com.fysl.app.ui.GroupSimpleDetailActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:235:9-238:64
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:237:13-49
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:238:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:236:13-69
+activity#com.fysl.app.ui.GroupBlacklistActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:240:9-243:64
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:242:13-49
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:243:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:241:13-66
+activity#com.fysl.app.ui.PublicGroupsSeachActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:244:9-247:64
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:246:13-49
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:247:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:245:13-69
+activity#com.fysl.app.ui.EditActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:248:9-252:67
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:250:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:252:13-55
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:251:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:249:13-56
+activity#com.hyphenate.easeui.ui.EaseShowVideoActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:253:9-257:72
+	android:screenOrientation
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:255:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:257:13-60
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:256:13-52
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:254:13-73
+activity#com.fysl.app.ui.ImageGridActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:259:9-263:72
 	android:screenOrientation
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:261:13-49
-	android:launchMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:260:13-44
-	android:configChanges
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:259:13-74
+	android:windowSoftInputMode
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:263:13-60
 	android:theme
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:262:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:258:13-61
-activity#com.fysl.app.ui.GroupSimpleDetailActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:265:9-269:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:267:13-49
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:268:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:266:13-69
-activity#com.fysl.app.ui.GroupBlacklistActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:271:9-275:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:273:13-49
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:274:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:272:13-66
-activity#com.fysl.app.ui.PublicGroupsSeachActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:276:9-280:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:278:13-49
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:279:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:277:13-69
-activity#com.fysl.app.ui.EditActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:281:9-286:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:283:13-49
-	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:285:13-55
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:284:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:282:13-56
-activity#com.hyphenate.easeui.ui.EaseShowVideoActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:287:9-292:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:289:13-49
-	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:291:13-60
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:290:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:288:13-73
-activity#com.fysl.app.ui.ImageGridActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:294:9-299:20
-	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:296:13-49
-	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:298:13-60
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:297:13-52
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:295:13-61
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:260:13-61
 activity#com.fysl.app.ui.RecorderVideoActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:300:9-305:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:264:9-268:72
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:302:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:266:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:304:13-60
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:268:13-60
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:303:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:267:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:301:13-65
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:265:13-65
 activity#com.fysl.app.ui.DiagnoseActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:307:9-312:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:270:9-274:72
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:309:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:272:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:311:13-60
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:274:13-60
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:310:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:273:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:308:13-60
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:271:13-60
 activity#com.fysl.app.ui.OfflinePushNickActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:315:9-320:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:277:9-281:72
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:317:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:279:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:319:13-60
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:281:13-60
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:318:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:280:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:316:13-67
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:278:13-67
 activity#com.fysl.app.ui.RobotsActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:322:9-327:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:283:9-287:72
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:324:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:285:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:326:13-60
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:287:13-60
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:325:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:286:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:323:13-58
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:284:13-58
 activity#com.fysl.app.ui.UserProfileActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:329:9-333:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:289:9-292:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:331:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:291:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:332:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:292:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:330:13-63
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:290:13-63
 activity#com.fysl.app.main.FirstActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:334:9-338:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:293:9-296:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:336:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:295:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:337:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:296:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:335:13-59
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:294:13-59
 activity#com.fysl.app.main.RegisterNextActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:339:9-343:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:297:9-300:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:341:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:299:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:342:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:300:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:340:13-66
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:298:13-66
 activity#com.fysl.app.main.RegionActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:344:9-348:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:301:9-304:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:346:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:303:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:347:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:304:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:345:13-60
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:302:13-60
 activity#com.fysl.app.main.SignActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:349:9-353:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:305:9-308:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:351:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:307:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:352:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:308:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:350:13-58
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:306:13-58
 activity#com.fysl.app.main.MyUserInfoActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:354:9-358:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:309:9-312:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:356:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:311:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:357:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:312:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:355:13-64
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:310:13-64
 activity#com.fysl.app.main.SocialPublishActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:359:9-363:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:313:9-316:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:361:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:315:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:362:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:316:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:360:13-67
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:314:13-67
 activity#com.fysl.app.main.SettingsActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:364:9-368:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:317:9-320:64
 	android:screenOrientation
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:366:13-49
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:319:13-49
 	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:367:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:320:13-52
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:365:13-62
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:318:13-62
 receiver#com.fysl.app.receiver.StartServiceReceiver
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:371:9-378:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:323:9-330:20
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:371:19-76
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:323:19-76
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:372:13-377:29
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:324:13-329:29
 	android:priority
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:372:28-51
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:324:28-51
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:373:17-79
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:325:17-79
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:373:25-76
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:325:25-76
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:374:17-82
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:326:17-82
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:374:25-79
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:326:25-79
 receiver#com.hyphenate.chat.EMGCMBroadcastReceiver
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:381:9-390:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:333:9-342:20
 	android:exported
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:383:13-36
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:335:13-36
 	android:permission
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:384:13-73
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:336:13-73
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:382:13-69
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:334:13-69
 intent-filter#com.fysl.app+com.google.android.c2dm.intent.RECEIVE
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:385:13-389:29
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:337:13-341:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:386:17-81
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:338:17-81
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:386:25-78
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:338:25-78
 category#com.fysl.app
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:388:17-57
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:340:17-57
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:388:27-54
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:340:27-54
 service#com.hyphenate.chat.EMGCMListenerService
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:392:9-395:19
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:344:9-346:48
 	android:exported
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:394:13-37
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:346:13-37
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:393:13-67
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:345:13-67
 service#com.fysl.app.RefreshLocationService
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:396:9-399:19
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:347:9-349:48
 	android:exported
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:398:13-37
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:349:13-37
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:397:13-63
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:348:13-63
 receiver#com.fysl.app.receiver.GCMPushBroadCast
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:401:9-409:20
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:351:9-359:20
 	android:exported
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:403:13-37
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:353:13-37
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:402:13-66
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:352:13-66
 intent-filter#com.fysl.app+com.hyphenate.sdk.push
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:404:13-408:29
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:354:13-358:29
 action#com.hyphenate.sdk.push
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:405:17-65
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:355:17-65
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:405:25-62
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:355:25-62
 service#com.xiaomi.mipush.sdk.PushMessageHandler
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:414:9-417:39
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:364:9-367:39
 	android:enabled
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:416:13-35
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:366:13-35
 	android:exported
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:417:13-36
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:367:13-36
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:415:13-68
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:365:13-68
 service#com.xiaomi.mipush.sdk.MessageHandleService
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:418:9-420:38
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:368:9-370:38
+	android:enabled
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:370:13-35
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:369:13-70
+receiver#com.hyphenate.chat.EMMipushReceiver
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:372:9-384:20
+	android:exported
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:374:13-36
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:373:13-63
+intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:375:13-377:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:376:17-76
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:376:25-73
+intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:378:13-380:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:379:17-76
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:379:25-73
+intent-filter#com.xiaomi.mipush.ERROR
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:381:13-383:29
+action#com.xiaomi.mipush.ERROR
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:382:17-66
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:382:25-63
+service#com.umeng.update.net.DownloadingService
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:387:9-389:61
+	android:process
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:389:13-50
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:388:13-67
+activity#com.umeng.update.UpdateDialogActivity
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:391:9-393:84
+	android:theme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:393:13-72
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:392:13-65
+meta-data#EASEMOB_APPKEY
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:396:9-398:47
+	android:value
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:398:13-44
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:397:13-42
+service#com.hyphenate.chat.EMChatService
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:400:9-402:39
+	android:exported
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:402:13-36
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:401:13-60
+receiver#com.hyphenate.chat.EMMonitorReceiver
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:404:9-415:20
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:404:19-70
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:405:13-409:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:406:17-80
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:406:25-77
+data
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:408:17-50
+	android:scheme
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:408:23-47
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:411:13-414:29
+action#android.intent.action.USER_PRESENT
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:413:17-77
+	android:name
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:413:25-74
+service#com.baidu.location.f
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:418:9-421:41
 	android:enabled
 		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:420:13-35
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:419:13-70
-receiver#com.hyphenate.chat.EMMipushReceiver
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:422:9-434:20
-	android:exported
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:424:13-36
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:423:13-63
-intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:425:13-427:29
-action#com.xiaomi.mipush.RECEIVE_MESSAGE
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:426:17-76
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:426:25-73
-intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:428:13-430:29
-action#com.xiaomi.mipush.MESSAGE_ARRIVED
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:429:17-76
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:429:25-73
-intent-filter#com.xiaomi.mipush.ERROR
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:431:13-433:29
-action#com.xiaomi.mipush.ERROR
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:432:17-66
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:432:25-63
-service#com.umeng.update.net.DownloadingService
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:437:9-440:19
 	android:process
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:439:13-50
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:421:13-38
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:438:13-67
-activity#com.umeng.update.UpdateDialogActivity
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:442:9-445:20
-	android:theme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:444:13-72
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:443:13-65
-meta-data#EASEMOB_APPKEY
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:448:9-450:47
-	android:value
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:450:13-44
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:449:13-42
-service#com.hyphenate.chat.EMChatService
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:452:9-454:39
-	android:exported
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:454:13-36
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:453:13-60
-receiver#com.hyphenate.chat.EMMonitorReceiver
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:456:9-467:20
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:456:19-70
-intent-filter#android.intent.action.PACKAGE_REMOVED
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:457:13-461:29
-action#android.intent.action.PACKAGE_REMOVED
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:458:17-80
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:458:25-77
-data
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:460:17-50
-	android:scheme
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:460:23-47
-intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:463:13-466:29
-action#android.intent.action.USER_PRESENT
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:465:17-77
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:465:25-74
-service#com.baidu.location.f
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:470:9-473:41
-	android:enabled
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:472:13-35
-	android:process
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:473:13-38
-	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:471:13-48
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:419:13-48
 meta-data#UMENG_APPKEY
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:475:9-478:21
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:423:9-425:66
 	android:value
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:477:13-53
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:425:13-53
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:476:13-40
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:424:13-40
 meta-data#UMENG_CHANNEL
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:479:9-481:41
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:426:9-428:41
 	android:value
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:481:13-38
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:428:13-38
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:480:13-41
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:427:13-41
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:482:9-484:64
+ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:429:9-431:64
 	android:value
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:484:13-61
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:431:13-61
 	android:name
-		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:483:13-52
+		ADDED from C:\Users\ustc\Desktop\Android Studio\fangyuanshili0630\FYSLapp\AndroidManifest.xml:430:13-52

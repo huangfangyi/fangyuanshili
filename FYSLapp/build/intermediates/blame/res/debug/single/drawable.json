@@ -332,12 +332,12 @@
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_photogrid_list_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
-    },
-    {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
     },
     {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_white_pressed_shape.xml",

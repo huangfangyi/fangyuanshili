@@ -381,51 +381,51 @@ containing a value of this type.
         public static final int titleBarTitle=0x7f010017;
     }
     public static final class color {
-        public static final int black_deep=0x7f0a0000;
-        public static final int bottom_bar_normal_bg=0x7f0a0001;
-        public static final int bottom_text_color_normal=0x7f0a0002;
-        public static final int btn_answer_normal=0x7f0a0003;
-        public static final int btn_answer_pressed=0x7f0a0004;
-        public static final int btn_blue_normal=0x7f0a0005;
-        public static final int btn_blue_pressed=0x7f0a0006;
-        public static final int btn_gray_normal=0x7f0a0007;
-        public static final int btn_gray_pressed=0x7f0a0008;
-        public static final int btn_gray_pressed_status=0x7f0a0009;
-        public static final int btn_green_noraml=0x7f0a000a;
-        public static final int btn_green_pressed=0x7f0a000b;
-        public static final int btn_login_normal=0x7f0a000c;
-        public static final int btn_login_pressed=0x7f0a000d;
-        public static final int btn_logout_normal=0x7f0a000e;
-        public static final int btn_logout_pressed=0x7f0a000f;
-        public static final int btn_pressed_green_solid=0x7f0a0010;
-        public static final int btn_register_normal=0x7f0a0011;
-        public static final int btn_register_pressed=0x7f0a0012;
-        public static final int btn_white_normal=0x7f0a0013;
-        public static final int btn_white_pressed=0x7f0a0014;
-        public static final int common_bg=0x7f0a0015;
-        public static final int common_bottom_bar_normal_bg=0x7f0a0016;
-        public static final int common_bottom_bar_selected_bg=0x7f0a0017;
-        public static final int common_botton_bar_blue=0x7f0a0018;
-        public static final int common_top_bar_blue=0x7f0a0019;
-        public static final int divider_list=0x7f0a001a;
+        public static final int black_deep=0x7f0a0001;
+        public static final int bottom_bar_normal_bg=0x7f0a0002;
+        public static final int bottom_text_color_normal=0x7f0a0003;
+        public static final int btn_answer_normal=0x7f0a0004;
+        public static final int btn_answer_pressed=0x7f0a0005;
+        public static final int btn_blue_normal=0x7f0a0006;
+        public static final int btn_blue_pressed=0x7f0a0007;
+        public static final int btn_gray_normal=0x7f0a0008;
+        public static final int btn_gray_pressed=0x7f0a0009;
+        public static final int btn_gray_pressed_status=0x7f0a000a;
+        public static final int btn_green_noraml=0x7f0a000b;
+        public static final int btn_green_pressed=0x7f0a000c;
+        public static final int btn_login_normal=0x7f0a000d;
+        public static final int btn_login_pressed=0x7f0a000e;
+        public static final int btn_logout_normal=0x7f0a000f;
+        public static final int btn_logout_pressed=0x7f0a0010;
+        public static final int btn_pressed_green_solid=0x7f0a0011;
+        public static final int btn_register_normal=0x7f0a0012;
+        public static final int btn_register_pressed=0x7f0a0013;
+        public static final int btn_white_normal=0x7f0a0014;
+        public static final int btn_white_pressed=0x7f0a0015;
+        public static final int common_bg=0x7f0a0016;
+        public static final int common_bottom_bar_normal_bg=0x7f0a0017;
+        public static final int common_bottom_bar_selected_bg=0x7f0a0018;
+        public static final int common_botton_bar_blue=0x7f0a0019;
+        public static final int common_top_bar_blue=0x7f0a001a;
+        public static final int divider_list=0x7f0a001b;
         public static final int em_main_botton_text_color=0x7f0a002f;
-        public static final int emojicon_tab_nomal=0x7f0a001b;
-        public static final int emojicon_tab_selected=0x7f0a001c;
-        public static final int error_item_color=0x7f0a001d;
-        public static final int gray_normal=0x7f0a001e;
-        public static final int gray_pressed=0x7f0a001f;
-        public static final int grid_state_focused=0x7f0a0020;
-        public static final int grid_state_pressed=0x7f0a0021;
-        public static final int holo_blue_bright=0x7f0a0022;
-        public static final int holo_green_light=0x7f0a0023;
-        public static final int holo_orange_light=0x7f0a0024;
-        public static final int holo_red_light=0x7f0a0025;
-        public static final int list_itease_primary_color=0x7f0a0026;
-        public static final int list_itease_secondary_color=0x7f0a0027;
-        public static final int list_item_primary_color=0x7f0a0028;
-        public static final int list_item_secondary_color=0x7f0a0029;
-        public static final int orange=0x7f0a002a;
-        public static final int tb_munion_item_force=0x7f0a002b;
+        public static final int emojicon_tab_nomal=0x7f0a001c;
+        public static final int emojicon_tab_selected=0x7f0a001d;
+        public static final int error_item_color=0x7f0a001e;
+        public static final int gray_normal=0x7f0a001f;
+        public static final int gray_pressed=0x7f0a0020;
+        public static final int grid_state_focused=0x7f0a0021;
+        public static final int grid_state_pressed=0x7f0a0022;
+        public static final int holo_blue_bright=0x7f0a0023;
+        public static final int holo_green_light=0x7f0a0024;
+        public static final int holo_orange_light=0x7f0a0025;
+        public static final int holo_red_light=0x7f0a0026;
+        public static final int list_itease_primary_color=0x7f0a0027;
+        public static final int list_itease_secondary_color=0x7f0a0028;
+        public static final int list_item_primary_color=0x7f0a0029;
+        public static final int list_item_secondary_color=0x7f0a002a;
+        public static final int orange=0x7f0a002b;
+        public static final int tb_munion_item_force=0x7f0a0000;
         public static final int text_color=0x7f0a002c;
         public static final int top_bar_normal_bg=0x7f0a002d;
         public static final int voip_interface_text_color=0x7f0a002e;
@@ -1430,366 +1430,366 @@ containing a value of this type.
         public static final int em_outgoing=0x7f050000;
     }
     public static final class string {
-        public static final int Add_a_button_was_clicked=0x7f060077;
-        public static final int Add_a_friend=0x7f060078;
-        public static final int Add_group_members_fail=0x7f060079;
-        public static final int Agree_with_failure=0x7f06007a;
-        public static final int Agreed_to_your_group_chat_application=0x7f06007b;
+        public static final int Add_a_button_was_clicked=0x7f060075;
+        public static final int Add_a_friend=0x7f060076;
+        public static final int Add_group_members_fail=0x7f060077;
+        public static final int Agree_with_failure=0x7f060078;
+        public static final int Agreed_to_your_group_chat_application=0x7f060079;
         public static final int Application_and_notify=0x7f060006;
-        public static final int Apply_to_the_group_of=0x7f06007c;
-        public static final int Are_agree_with=0x7f06007d;
-        public static final int Are_connected_to_each_other=0x7f06007e;
-        public static final int Are_logged_out=0x7f06007f;
-        public static final int Are_moving_to_blacklist=0x7f060080;
-        public static final int Are_refuse_with=0x7f060081;
-        public static final int Are_removed=0x7f060082;
-        public static final int Cant_chat_with_yourself=0x7f060083;
-        public static final int Change_the_group_name=0x7f060084;
-        public static final int Confirm_password_cannot_be_empty=0x7f060085;
-        public static final int Connection_failure=0x7f060086;
+        public static final int Apply_to_the_group_of=0x7f06007a;
+        public static final int Are_agree_with=0x7f06007b;
+        public static final int Are_connected_to_each_other=0x7f06007c;
+        public static final int Are_logged_out=0x7f06007d;
+        public static final int Are_moving_to_blacklist=0x7f06007e;
+        public static final int Are_refuse_with=0x7f06007f;
+        public static final int Are_removed=0x7f060080;
+        public static final int Cant_chat_with_yourself=0x7f060081;
+        public static final int Change_the_group_name=0x7f060082;
+        public static final int Confirm_password_cannot_be_empty=0x7f060083;
+        public static final int Connection_failure=0x7f060084;
         public static final int Current_version=0x7f060007;
-        public static final int Delete_failed=0x7f060087;
-        public static final int Delete_the_contact=0x7f060088;
-        public static final int Did_not_download=0x7f060089;
-        public static final int Dissolve_group_chat_tofail=0x7f06008a;
-        public static final int Download_the_pictures=0x7f06008b;
-        public static final int Download_the_pictures_new=0x7f06008c;
+        public static final int Delete_failed=0x7f060085;
+        public static final int Delete_the_contact=0x7f060086;
+        public static final int Did_not_download=0x7f060087;
+        public static final int Dissolve_group_chat_tofail=0x7f060088;
+        public static final int Download_the_pictures=0x7f060089;
+        public static final int Download_the_pictures_new=0x7f06008a;
         public static final int Empty_the_chat_record=0x7f060008;
         public static final int Exit_the_group_chat=0x7f060009;
-        public static final int Exit_the_group_chat_failure=0x7f06008d;
-        public static final int Failed_to_create_groups=0x7f06008e;
-        public static final int Failed_to_download_file=0x7f06008f;
-        public static final int Failed_to_get_group_chat_information=0x7f060090;
-        public static final int Failed_to_join_the_group_chat=0x7f060091;
-        public static final int File_does_not_exist=0x7f060092;
+        public static final int Exit_the_group_chat_failure=0x7f06008b;
+        public static final int Failed_to_create_groups=0x7f06008c;
+        public static final int Failed_to_download_file=0x7f06008d;
+        public static final int Failed_to_get_group_chat_information=0x7f06008e;
+        public static final int Failed_to_join_the_group_chat=0x7f06008f;
+        public static final int File_does_not_exist=0x7f060090;
         public static final int Group_chat=0x7f06000a;
         public static final int Group_chat_information=0x7f06000b;
         public static final int Group_chat_profile=0x7f06000c;
-        public static final int Group_name_cannot_be_empty=0x7f060093;
+        public static final int Group_name_cannot_be_empty=0x7f060091;
         public static final int Group_of_Lord=0x7f06000d;
         public static final int Hands_free=0x7f06000e;
-        public static final int Has_agreed_to=0x7f060094;
-        public static final int Has_agreed_to_your_friend_request=0x7f060095;
-        public static final int Has_been_cancelled=0x7f060096;
-        public static final int Has_refused_to=0x7f060097;
-        public static final int Have_downloaded=0x7f060098;
-        public static final int In_the_call=0x7f060099;
-        public static final int Into_the_blacklist=0x7f06009a;
+        public static final int Has_agreed_to=0x7f060092;
+        public static final int Has_agreed_to_your_friend_request=0x7f060093;
+        public static final int Has_been_cancelled=0x7f060094;
+        public static final int Has_refused_to=0x7f060095;
+        public static final int Have_downloaded=0x7f060096;
+        public static final int In_the_call=0x7f060097;
+        public static final int Into_the_blacklist=0x7f060098;
         public static final int Introduction=0x7f06000f;
-        public static final int Invite_you_to_join_a_group_chat=0x7f06009b;
-        public static final int Is_download_voice_click_later=0x7f06009c;
-        public static final int Is_landing=0x7f06009d;
-        public static final int Is_moved_into_blacklist=0x7f06009e;
-        public static final int Is_not_yet_connected_to_the_server=0x7f06009f;
-        public static final int Is_sending_a_request=0x7f0600a0;
-        public static final int Is_the_registered=0x7f0600a1;
-        public static final int Is_to_create_a_group_chat=0x7f0600a2;
-        public static final int Is_unblock=0x7f0600a3;
-        public static final int Join_the_group_chat=0x7f0600a4;
-        public static final int Log_Upload_failed=0x7f0600a5;
-        public static final int Log_uploaded_successfully=0x7f0600a6;
-        public static final int Login_failed=0x7f0600a7;
-        public static final int Logoff_notification=0x7f0600a8;
-        public static final int Making_sure_your_location=0x7f0600a9;
-        public static final int Modify_the_group_name_successful=0x7f0600aa;
-        public static final int Move_into_blacklist_failure=0x7f0600ab;
-        public static final int Move_into_blacklist_success=0x7f0600ac;
-        public static final int Move_into_the_blacklist_new=0x7f0600ad;
-        public static final int Network_error=0x7f0600ae;
+        public static final int Invite_you_to_join_a_group_chat=0x7f060099;
+        public static final int Is_download_voice_click_later=0x7f06009a;
+        public static final int Is_landing=0x7f06009b;
+        public static final int Is_moved_into_blacklist=0x7f06009c;
+        public static final int Is_not_yet_connected_to_the_server=0x7f06009d;
+        public static final int Is_sending_a_request=0x7f06009e;
+        public static final int Is_the_registered=0x7f06009f;
+        public static final int Is_to_create_a_group_chat=0x7f0600a0;
+        public static final int Is_unblock=0x7f0600a1;
+        public static final int Join_the_group_chat=0x7f0600a2;
+        public static final int Log_Upload_failed=0x7f0600a3;
+        public static final int Log_uploaded_successfully=0x7f0600a4;
+        public static final int Login_failed=0x7f0600a5;
+        public static final int Logoff_notification=0x7f0600a6;
+        public static final int Making_sure_your_location=0x7f0600a7;
+        public static final int Modify_the_group_name_successful=0x7f0600a8;
+        public static final int Move_into_blacklist_failure=0x7f0600a9;
+        public static final int Move_into_blacklist_success=0x7f0600aa;
+        public static final int Move_into_the_blacklist_new=0x7f0600ab;
+        public static final int Network_error=0x7f0600ac;
         public static final int Not_Set=0x7f060010;
         public static final int Open_group_chat=0x7f060011;
         public static final int Open_group_members_invited=0x7f060012;
-        public static final int Open_the_equipment_failure=0x7f0600af;
-        public static final int Password_cannot_be_empty=0x7f0600b0;
+        public static final int Open_the_equipment_failure=0x7f0600ad;
+        public static final int Password_cannot_be_empty=0x7f0600ae;
         public static final int Please_enter_a_username=0x7f060013;
-        public static final int Recording_without_permission=0x7f0600b1;
-        public static final int Refuse_with_failure=0x7f0600b2;
-        public static final int Refused=0x7f0600b3;
-        public static final int Registered_successfully=0x7f0600b4;
-        public static final int Registration_failed=0x7f0600b5;
-        public static final int Remove_the_notification=0x7f0600b6;
-        public static final int Removed_from_the_failure=0x7f0600b7;
-        public static final int Request_add_buddy_failure=0x7f0600b8;
-        public static final int Request_to_add_you_as_a_friend=0x7f0600b9;
-        public static final int Request_to_join=0x7f0600ba;
+        public static final int Recording_without_permission=0x7f0600af;
+        public static final int Refuse_with_failure=0x7f0600b0;
+        public static final int Refused=0x7f0600b1;
+        public static final int Registered_successfully=0x7f0600b2;
+        public static final int Registration_failed=0x7f0600b3;
+        public static final int Remove_the_notification=0x7f0600b4;
+        public static final int Removed_from_the_failure=0x7f0600b5;
+        public static final int Request_add_buddy_failure=0x7f0600b6;
+        public static final int Request_to_add_you_as_a_friend=0x7f0600b7;
+        public static final int Request_to_join=0x7f0600b8;
         public static final int Select_the_contact=0x7f060014;
-        public static final int Send_the_following_pictures=0x7f0600bb;
-        public static final int Send_voice_need_sdcard_support=0x7f0600bc;
+        public static final int Send_the_following_pictures=0x7f0600b9;
+        public static final int Send_voice_need_sdcard_support=0x7f0600ba;
         public static final int Shielding_of_the_message=0x7f060015;
-        public static final int Sync_Groups_From_Server=0x7f0600bd;
-        public static final int The_delete_button_is_clicked=0x7f0600be;
-        public static final int The_file_is_not_greater_than_10_m=0x7f0600bf;
+        public static final int Sync_Groups_From_Server=0x7f0600bb;
+        public static final int The_delete_button_is_clicked=0x7f0600bc;
+        public static final int The_file_is_not_greater_than_10_m=0x7f0600bd;
         public static final int The_new_group_chat=0x7f060016;
-        public static final int The_other_is_hang_up=0x7f0600c0;
-        public static final int The_other_is_not_online=0x7f0600c1;
-        public static final int The_other_is_on_the_phone=0x7f0600c2;
-        public static final int The_other_is_on_the_phone_please=0x7f0600c3;
-        public static final int The_other_party_did_not_answer=0x7f0600c4;
-        public static final int The_other_party_did_not_answer_new=0x7f0600c5;
-        public static final int The_other_party_has_refused_to=0x7f0600c6;
-        public static final int The_other_party_is_not_online=0x7f0600c7;
-        public static final int The_other_party_refused_to_accept=0x7f0600c8;
-        public static final int The_recording_time_is_too_short=0x7f0600c9;
-        public static final int The_video_to_start=0x7f0600ca;
-        public static final int This_user_is_already_your_friend=0x7f0600cb;
+        public static final int The_other_is_hang_up=0x7f0600be;
+        public static final int The_other_is_not_online=0x7f0600bf;
+        public static final int The_other_is_on_the_phone=0x7f0600c0;
+        public static final int The_other_is_on_the_phone_please=0x7f0600c1;
+        public static final int The_other_party_did_not_answer=0x7f0600c2;
+        public static final int The_other_party_did_not_answer_new=0x7f0600c3;
+        public static final int The_other_party_has_refused_to=0x7f0600c4;
+        public static final int The_other_party_is_not_online=0x7f0600c5;
+        public static final int The_other_party_refused_to_accept=0x7f0600c6;
+        public static final int The_recording_time_is_too_short=0x7f0600c7;
+        public static final int The_video_to_start=0x7f0600c8;
+        public static final int This_user_is_already_your_friend=0x7f0600c9;
         public static final int To_join_the_chat=0x7f060017;
-        public static final int Two_input_password=0x7f0600cc;
-        public static final int UMAppUpdate=0x7f060145;
-        public static final int UMBreak_Network=0x7f060146;
-        public static final int UMDialog_InstallAPK=0x7f060147;
-        public static final int UMGprsCondition=0x7f060148;
-        public static final int UMIgnore=0x7f060149;
-        public static final int UMNewVersion=0x7f06014a;
-        public static final int UMNotNow=0x7f06014b;
-        public static final int UMTargetSize=0x7f06014c;
-        public static final int UMToast_IsUpdating=0x7f06014d;
-        public static final int UMUpdateCheck=0x7f060160;
-        public static final int UMUpdateContent=0x7f06014e;
-        public static final int UMUpdateNow=0x7f06014f;
-        public static final int UMUpdateSize=0x7f060150;
-        public static final int UMUpdateTitle=0x7f060151;
+        public static final int Two_input_password=0x7f0600ca;
+        public static final int UMAppUpdate=0x7f0600cb;
+        public static final int UMBreak_Network=0x7f0600cc;
+        public static final int UMDialog_InstallAPK=0x7f0600cd;
+        public static final int UMGprsCondition=0x7f0600ce;
+        public static final int UMIgnore=0x7f0600cf;
+        public static final int UMNewVersion=0x7f0600d0;
+        public static final int UMNotNow=0x7f0600d1;
+        public static final int UMTargetSize=0x7f0600d2;
+        public static final int UMToast_IsUpdating=0x7f0600d3;
+        public static final int UMUpdateCheck=0x7f0600d4;
+        public static final int UMUpdateContent=0x7f0600d5;
+        public static final int UMUpdateNow=0x7f0600d6;
+        public static final int UMUpdateSize=0x7f0600d7;
+        public static final int UMUpdateTitle=0x7f0600d8;
         public static final int Upload_the_log=0x7f060018;
-        public static final int User_already_exists=0x7f0600cd;
-        public static final int User_name_cannot_be_empty=0x7f0600ce;
-        public static final int Version_number_is_wrong=0x7f0600cf;
-        public static final int Video_footage=0x7f0600d0;
+        public static final int User_already_exists=0x7f0600d9;
+        public static final int User_name_cannot_be_empty=0x7f0600da;
+        public static final int Version_number_is_wrong=0x7f0600db;
+        public static final int Video_footage=0x7f0600dc;
         public static final int Whether_the_public=0x7f060019;
-        public static final int Whether_to_empty_all_chats=0x7f0600d1;
-        public static final int Whether_to_send=0x7f0600d2;
-        public static final int accept_join_group=0x7f0600d3;
+        public static final int Whether_to_empty_all_chats=0x7f0600dd;
+        public static final int Whether_to_send=0x7f0600de;
+        public static final int accept_join_group=0x7f0600df;
         public static final int add_friend=0x7f06001a;
-        public static final int add_public_chat_room=0x7f0600d4;
-        public static final int add_public_group_chat=0x7f0600d5;
+        public static final int add_public_chat_room=0x7f0600e0;
+        public static final int add_public_group_chat=0x7f0600e1;
         public static final int address_book=0x7f06001b;
         public static final int agree=0x7f06001c;
         public static final int answer=0x7f06001d;
-        public static final int app_name=0x7f06001e;
-        public static final int app_slogon=0x7f0600d6;
-        public static final int are_empty_group_of_news=0x7f0600d7;
-        public static final int attach_file=0x7f06001f;
-        public static final int attach_location=0x7f060020;
-        public static final int attach_picture=0x7f060021;
-        public static final int attach_smile=0x7f060022;
-        public static final int attach_take_pic=0x7f060023;
-        public static final int attach_video=0x7f0600d8;
-        public static final int attach_video_call=0x7f0600d9;
-        public static final int attach_voice_call=0x7f060024;
-        public static final int auto_accept_group_invitation=0x7f0600da;
-        public static final int back=0x7f060025;
-        public static final int be_removing=0x7f0600db;
-        public static final int being_added=0x7f0600dc;
-        public static final int black_item=0x7f060026;
-        public static final int blacklist=0x7f060027;
-        public static final int book_black=0x7f060028;
-        public static final int button_add=0x7f060029;
-        public static final int button_cancel=0x7f06002a;
-        public static final int button_logout=0x7f06002b;
-        public static final int button_pushtotalk=0x7f06002c;
-        public static final int button_save=0x7f06002d;
-        public static final int button_search=0x7f06002e;
-        public static final int button_send=0x7f06002f;
-        public static final int button_uploadlog=0x7f060030;
-        public static final int call_duration=0x7f0600dd;
-        public static final int can_not_connect_chat_server_connection=0x7f0600de;
-        public static final int cancel=0x7f060031;
-        public static final int cant_find_pictures=0x7f0600df;
-        public static final int change_the_group_name_failed_please=0x7f0600e0;
-        public static final int chat_room=0x7f0600e1;
-        public static final int chatroom_allow_owner_leave=0x7f0600e2;
-        public static final int chatset=0x7f060032;
-        public static final int chatting_is_dissolution=0x7f0600e3;
-        public static final int clear_all_records=0x7f060033;
-        public static final int clear_records=0x7f060034;
-        public static final int confirm_forward_to=0x7f060035;
-        public static final int confirm_resend=0x7f060036;
-        public static final int confirm_the_members=0x7f0600e4;
-        public static final int confirmpassword=0x7f060037;
-        public static final int connect_conflict=0x7f060038;
-        public static final int connect_failuer_toast=0x7f060039;
-        public static final int copy=0x7f06003a;
-        public static final int copy_message=0x7f06003b;
-        public static final int delete=0x7f06003c;
-        public static final int delete_conversation=0x7f0600e5;
-        public static final int delete_conversation_messages=0x7f0600e6;
-        public static final int delete_message=0x7f06003d;
-        public static final int delete_msg_when_exit_group=0x7f0600e7;
-        public static final int delete_video=0x7f06003e;
-        public static final int delete_voice=0x7f06003f;
-        public static final int deleting=0x7f0600e8;
-        public static final int diagnose=0x7f060040;
-        public static final int did_not_answer=0x7f0600e9;
-        public static final int direct_call=0x7f0600ea;
-        public static final int dismiss_group=0x7f060041;
-        public static final int dissolution_group_hint=0x7f060042;
-        public static final int dl_cancel=0x7f0600eb;
-        public static final int dl_msg_local_upload=0x7f0600ec;
-        public static final int dl_msg_take_photo=0x7f0600ed;
-        public static final int dl_ok=0x7f0600ee;
-        public static final int dl_title_upload_photo=0x7f0600ef;
-        public static final int dl_update_nick=0x7f0600f0;
-        public static final int dl_update_photo=0x7f0600f1;
-        public static final int dl_waiting=0x7f0600f2;
-        public static final int downwaiting=0x7f060043;
-        public static final int dynamic_expression=0x7f0600f3;
-        public static final int ease_user_remove=0x7f060044;
-        public static final int em_user_remove=0x7f060045;
-        public static final int error_send_invalid_content=0x7f0600f4;
-        public static final int error_send_not_in_the_group=0x7f0600f5;
-        public static final int exit_group=0x7f060046;
-        public static final int exit_group_hint=0x7f060047;
-        public static final int expression=0x7f0600f6;
-        public static final int failed_to_load_data=0x7f0600f7;
-        public static final int failed_to_move_into=0x7f0600f8;
-        public static final int file=0x7f060048;
-        public static final int forward=0x7f060049;
-        public static final int get_failed_please_check=0x7f0600f9;
-        public static final int gorup_not_found=0x7f0600fa;
-        public static final int group_chat=0x7f06004a;
-        public static final int group_id=0x7f0600fb;
-        public static final int group_is_blocked=0x7f0600fc;
-        public static final int group_name=0x7f06004b;
-        public static final int group_nick=0x7f0600fd;
-        public static final int group_not_existed=0x7f0600fe;
-        public static final int group_not_found=0x7f0600ff;
-        public static final int group_of_shielding=0x7f060100;
-        public static final int group_owner=0x7f060101;
-        public static final int group_search_failed=0x7f060102;
-        public static final int hang_up=0x7f06004c;
-        public static final int hanging_up=0x7f060103;
-        public static final int have_connected_with=0x7f060104;
-        public static final int have_you_removed=0x7f060105;
-        public static final int illegal_user_name=0x7f060106;
-        public static final int input_new_nick_hint=0x7f060107;
-        public static final int invite_join_group=0x7f060108;
-        public static final int is_down_please_wait=0x7f06004d;
-        public static final int is_modify_the_group_name=0x7f060109;
-        public static final int is_quit_the_group_chat=0x7f06010a;
-        public static final int join_need_owner_approval=0x7f06010b;
-        public static final int join_public_group=0x7f06010c;
-        public static final int list_is_for=0x7f06010d;
-        public static final int location_message=0x7f06004e;
-        public static final int location_prefix=0x7f06004f;
-        public static final int location_recv=0x7f060050;
-        public static final int login=0x7f060051;
-        public static final int login_failure_failed=0x7f06010e;
-        public static final int logout=0x7f060052;
-        public static final int logout_hint=0x7f060053;
-        public static final int messages_are_empty=0x7f06010f;
-        public static final int move_out_backlist=0x7f060110;
-        public static final int move_up_to_cancel=0x7f060054;
-        public static final int mute=0x7f060055;
-        public static final int network_anomalies=0x7f060111;
-        public static final int network_isnot_available=0x7f060056;
-        public static final int network_unavailable=0x7f060057;
-        public static final int newchat=0x7f060058;
-        public static final int newnotify=0x7f060059;
-        public static final int nickname=0x7f060112;
-        public static final int nickname_description=0x7f060113;
-        public static final int no_more_messages=0x7f060114;
-        public static final int not_add_myself=0x7f060115;
-        public static final int not_connect_to_server=0x7f060116;
-        public static final int not_delete_myself=0x7f060117;
-        public static final int not_download=0x7f06005a;
-        public static final int notify=0x7f06005b;
-        public static final int now_refresh_list=0x7f06005c;
-        public static final int ok=0x7f060118;
-        public static final int password=0x7f06005d;
-        public static final int people=0x7f060119;
-        public static final int picture=0x7f06005e;
-        public static final int please_check=0x7f06011a;
-        public static final int please_set_the_current=0x7f06011b;
-        public static final int prompt=0x7f06005f;
+        public static final int app_name=0x7f0600e2;
+        public static final int app_slogon=0x7f0600e3;
+        public static final int are_empty_group_of_news=0x7f0600e4;
+        public static final int attach_file=0x7f06001e;
+        public static final int attach_location=0x7f06001f;
+        public static final int attach_picture=0x7f060020;
+        public static final int attach_smile=0x7f060021;
+        public static final int attach_take_pic=0x7f060022;
+        public static final int attach_video=0x7f0600e5;
+        public static final int attach_video_call=0x7f0600e6;
+        public static final int attach_voice_call=0x7f060023;
+        public static final int auto_accept_group_invitation=0x7f0600e7;
+        public static final int back=0x7f060024;
+        public static final int be_removing=0x7f0600e8;
+        public static final int being_added=0x7f0600e9;
+        public static final int black_item=0x7f060025;
+        public static final int blacklist=0x7f060026;
+        public static final int book_black=0x7f060027;
+        public static final int button_add=0x7f060028;
+        public static final int button_cancel=0x7f060029;
+        public static final int button_logout=0x7f06002a;
+        public static final int button_pushtotalk=0x7f06002b;
+        public static final int button_save=0x7f06002c;
+        public static final int button_search=0x7f06002d;
+        public static final int button_send=0x7f06002e;
+        public static final int button_uploadlog=0x7f06002f;
+        public static final int call_duration=0x7f0600ea;
+        public static final int can_not_connect_chat_server_connection=0x7f0600eb;
+        public static final int cancel=0x7f060030;
+        public static final int cant_find_pictures=0x7f0600ec;
+        public static final int change_the_group_name_failed_please=0x7f0600ed;
+        public static final int chat_room=0x7f0600ee;
+        public static final int chatroom_allow_owner_leave=0x7f0600ef;
+        public static final int chatset=0x7f060031;
+        public static final int chatting_is_dissolution=0x7f0600f0;
+        public static final int clear_all_records=0x7f060032;
+        public static final int clear_records=0x7f060033;
+        public static final int confirm_forward_to=0x7f060034;
+        public static final int confirm_resend=0x7f060035;
+        public static final int confirm_the_members=0x7f0600f1;
+        public static final int confirmpassword=0x7f060036;
+        public static final int connect_conflict=0x7f060037;
+        public static final int connect_failuer_toast=0x7f060038;
+        public static final int copy=0x7f060039;
+        public static final int copy_message=0x7f06003a;
+        public static final int delete=0x7f06003b;
+        public static final int delete_conversation=0x7f0600f2;
+        public static final int delete_conversation_messages=0x7f0600f3;
+        public static final int delete_message=0x7f06003c;
+        public static final int delete_msg_when_exit_group=0x7f0600f4;
+        public static final int delete_video=0x7f06003d;
+        public static final int delete_voice=0x7f06003e;
+        public static final int deleting=0x7f0600f5;
+        public static final int diagnose=0x7f06003f;
+        public static final int did_not_answer=0x7f0600f6;
+        public static final int direct_call=0x7f0600f7;
+        public static final int dismiss_group=0x7f060040;
+        public static final int dissolution_group_hint=0x7f060041;
+        public static final int dl_cancel=0x7f0600f8;
+        public static final int dl_msg_local_upload=0x7f0600f9;
+        public static final int dl_msg_take_photo=0x7f0600fa;
+        public static final int dl_ok=0x7f0600fb;
+        public static final int dl_title_upload_photo=0x7f0600fc;
+        public static final int dl_update_nick=0x7f0600fd;
+        public static final int dl_update_photo=0x7f0600fe;
+        public static final int dl_waiting=0x7f0600ff;
+        public static final int downwaiting=0x7f060042;
+        public static final int dynamic_expression=0x7f060100;
+        public static final int ease_user_remove=0x7f060043;
+        public static final int em_user_remove=0x7f060101;
+        public static final int error_send_invalid_content=0x7f060102;
+        public static final int error_send_not_in_the_group=0x7f060103;
+        public static final int exit_group=0x7f060044;
+        public static final int exit_group_hint=0x7f060045;
+        public static final int expression=0x7f060104;
+        public static final int failed_to_load_data=0x7f060105;
+        public static final int failed_to_move_into=0x7f060106;
+        public static final int file=0x7f060046;
+        public static final int forward=0x7f060047;
+        public static final int get_failed_please_check=0x7f060107;
+        public static final int gorup_not_found=0x7f060108;
+        public static final int group_chat=0x7f060048;
+        public static final int group_id=0x7f060109;
+        public static final int group_is_blocked=0x7f06010a;
+        public static final int group_name=0x7f060049;
+        public static final int group_nick=0x7f06010b;
+        public static final int group_not_existed=0x7f06010c;
+        public static final int group_not_found=0x7f06010d;
+        public static final int group_of_shielding=0x7f06010e;
+        public static final int group_owner=0x7f06010f;
+        public static final int group_search_failed=0x7f060110;
+        public static final int hang_up=0x7f06004a;
+        public static final int hanging_up=0x7f060111;
+        public static final int have_connected_with=0x7f060112;
+        public static final int have_you_removed=0x7f060113;
+        public static final int illegal_user_name=0x7f060114;
+        public static final int input_new_nick_hint=0x7f060115;
+        public static final int invite_join_group=0x7f060116;
+        public static final int is_down_please_wait=0x7f06004b;
+        public static final int is_modify_the_group_name=0x7f060117;
+        public static final int is_quit_the_group_chat=0x7f060118;
+        public static final int join_need_owner_approval=0x7f060119;
+        public static final int join_public_group=0x7f06011a;
+        public static final int list_is_for=0x7f06011b;
+        public static final int location_message=0x7f06004c;
+        public static final int location_prefix=0x7f06004d;
+        public static final int location_recv=0x7f06004e;
+        public static final int login=0x7f06004f;
+        public static final int login_failure_failed=0x7f06011c;
+        public static final int logout=0x7f060050;
+        public static final int logout_hint=0x7f060051;
+        public static final int messages_are_empty=0x7f06011d;
+        public static final int move_out_backlist=0x7f06011e;
+        public static final int move_up_to_cancel=0x7f060052;
+        public static final int mute=0x7f060053;
+        public static final int network_anomalies=0x7f06011f;
+        public static final int network_isnot_available=0x7f060054;
+        public static final int network_unavailable=0x7f060055;
+        public static final int newchat=0x7f060056;
+        public static final int newnotify=0x7f060057;
+        public static final int nickname=0x7f060120;
+        public static final int nickname_description=0x7f060121;
+        public static final int no_more_messages=0x7f060122;
+        public static final int not_add_myself=0x7f060123;
+        public static final int not_connect_to_server=0x7f060124;
+        public static final int not_delete_myself=0x7f060125;
+        public static final int not_download=0x7f060058;
+        public static final int notify=0x7f060059;
+        public static final int now_refresh_list=0x7f06005a;
+        public static final int ok=0x7f060126;
+        public static final int password=0x7f06005b;
+        public static final int people=0x7f060127;
+        public static final int picture=0x7f06005c;
+        public static final int please_check=0x7f060128;
+        public static final int please_set_the_current=0x7f060129;
+        public static final int prompt=0x7f06005d;
         public static final int pull_to_refresh_from_bottom_pull_label=0x7f060003;
         public static final int pull_to_refresh_from_bottom_refreshing_label=0x7f060004;
         public static final int pull_to_refresh_from_bottom_release_label=0x7f060005;
         public static final int pull_to_refresh_pull_label=0x7f060000;
         public static final int pull_to_refresh_refreshing_label=0x7f060001;
         public static final int pull_to_refresh_release_label=0x7f060002;
-        public static final int push_nick=0x7f06011c;
-        public static final int receive_the_passthrough=0x7f06011d;
-        public static final int recoding_fail=0x7f060060;
-        public static final int recording_video=0x7f060061;
-        public static final int refreshing_group_list=0x7f06011e;
-        public static final int refuse=0x7f06011f;
-        public static final int refuse_join_group=0x7f060120;
-        public static final int register=0x7f060062;
-        public static final int registration_failed_without_permission=0x7f060121;
-        public static final int relay_call=0x7f060122;
-        public static final int release_to_cancel=0x7f060063;
-        public static final int remove_group_of=0x7f060123;
-        public static final int resend=0x7f060064;
-        public static final int robot_chat=0x7f060124;
-        public static final int save=0x7f060065;
-        public static final int save_new_nickname=0x7f060125;
-        public static final int sd_card_does_not_exist=0x7f060126;
-        public static final int search=0x7f060066;
-        public static final int search_header=0x7f060067;
-        public static final int search_new=0x7f060127;
-        public static final int search_pubic_group=0x7f060128;
-        public static final int searching=0x7f060129;
-        public static final int select_contacts=0x7f060068;
-        public static final int send_fail=0x7f060069;
-        public static final int send_failure_please=0x7f06012a;
-        public static final int send_successful=0x7f06012b;
-        public static final int send_the_request_is=0x7f06012c;
-        public static final int session=0x7f06006a;
-        public static final int set=0x7f06006b;
-        public static final int setting=0x7f06006c;
-        public static final int setting_nickname=0x7f06012d;
-        public static final int shake=0x7f06006d;
-        public static final int sure_to_empty_this=0x7f06012e;
-        public static final int tab_chat=0x7f060161;
-        public static final int tab_contact=0x7f060162;
-        public static final int tab_people=0x7f060163;
-        public static final int tab_profile=0x7f060164;
-        public static final int tab_things=0x7f060165;
-        public static final int tb_munion_tip_download_prefix=0x7f060166;
-        public static final int temporary_does_not=0x7f06012f;
-        public static final int text_ack_msg=0x7f06006e;
-        public static final int text_delivered_msg=0x7f06006f;
-        public static final int the_current_group=0x7f060130;
-        public static final int the_current_network=0x7f060131;
-        public static final int title_user_profile=0x7f060132;
-        public static final int toast_nick_not_isnull=0x7f060133;
-        public static final int toast_no_support=0x7f060134;
-        public static final int toast_updatenick_fail=0x7f060135;
-        public static final int toast_updatenick_success=0x7f060136;
-        public static final int toast_updatephoto_fail=0x7f060137;
-        public static final int toast_updatephoto_success=0x7f060138;
-        public static final int umeng_common_action_cancel=0x7f060152;
-        public static final int umeng_common_action_continue=0x7f060153;
-        public static final int umeng_common_action_info_exist=0x7f060154;
-        public static final int umeng_common_action_pause=0x7f060155;
-        public static final int umeng_common_download_failed=0x7f060156;
-        public static final int umeng_common_download_finish=0x7f060157;
-        public static final int umeng_common_download_notification_prefix=0x7f060158;
-        public static final int umeng_common_icon=0x7f060167;
-        public static final int umeng_common_info_interrupt=0x7f060159;
-        public static final int umeng_common_network_break_alert=0x7f06015a;
-        public static final int umeng_common_patch_finish=0x7f06015b;
-        public static final int umeng_common_pause_notification_prefix=0x7f06015c;
-        public static final int umeng_common_silent_download_finish=0x7f06015d;
-        public static final int umeng_common_start_download_notification=0x7f06015e;
-        public static final int umeng_common_start_patch_notification=0x7f06015f;
-        public static final int unable_to_connect=0x7f060070;
-        public static final int unable_to_get_loaction=0x7f060139;
-        public static final int update_black_list=0x7f06013a;
-        public static final int update_black_list_failed=0x7f06013b;
-        public static final int update_contact_list=0x7f06013c;
-        public static final int update_contact_list_failed=0x7f06013d;
-        public static final int update_groups=0x7f06013e;
-        public static final int update_groups_failed=0x7f06013f;
-        public static final int user_already_in_contactlist=0x7f060140;
-        public static final int user_card=0x7f060071;
-        public static final int user_name=0x7f060072;
-        public static final int user_removed_from_group=0x7f060141;
-        public static final int video=0x7f060073;
-        public static final int video_call=0x7f060142;
-        public static final int voice=0x7f060074;
-        public static final int voice_call=0x7f060075;
-        public static final int voice_prefix=0x7f060143;
-        public static final int yangshengqi=0x7f060076;
-        public static final int you_are_group=0x7f060144;
+        public static final int push_nick=0x7f06012a;
+        public static final int receive_the_passthrough=0x7f06012b;
+        public static final int recoding_fail=0x7f06005e;
+        public static final int recording_video=0x7f06005f;
+        public static final int refreshing_group_list=0x7f06012c;
+        public static final int refuse=0x7f06012d;
+        public static final int refuse_join_group=0x7f06012e;
+        public static final int register=0x7f060060;
+        public static final int registration_failed_without_permission=0x7f06012f;
+        public static final int relay_call=0x7f060130;
+        public static final int release_to_cancel=0x7f060061;
+        public static final int remove_group_of=0x7f060131;
+        public static final int resend=0x7f060062;
+        public static final int robot_chat=0x7f060132;
+        public static final int save=0x7f060063;
+        public static final int save_new_nickname=0x7f060133;
+        public static final int sd_card_does_not_exist=0x7f060134;
+        public static final int search=0x7f060064;
+        public static final int search_header=0x7f060065;
+        public static final int search_new=0x7f060135;
+        public static final int search_pubic_group=0x7f060136;
+        public static final int searching=0x7f060137;
+        public static final int select_contacts=0x7f060066;
+        public static final int send_fail=0x7f060067;
+        public static final int send_failure_please=0x7f060138;
+        public static final int send_successful=0x7f060139;
+        public static final int send_the_request_is=0x7f06013a;
+        public static final int session=0x7f060068;
+        public static final int set=0x7f060069;
+        public static final int setting=0x7f06006a;
+        public static final int setting_nickname=0x7f06013b;
+        public static final int shake=0x7f06006b;
+        public static final int sure_to_empty_this=0x7f06013c;
+        public static final int tab_chat=0x7f06013d;
+        public static final int tab_contact=0x7f06013e;
+        public static final int tab_people=0x7f06013f;
+        public static final int tab_profile=0x7f060140;
+        public static final int tab_things=0x7f060141;
+        public static final int tb_munion_tip_download_prefix=0x7f060142;
+        public static final int temporary_does_not=0x7f060143;
+        public static final int text_ack_msg=0x7f06006c;
+        public static final int text_delivered_msg=0x7f06006d;
+        public static final int the_current_group=0x7f060144;
+        public static final int the_current_network=0x7f060145;
+        public static final int title_user_profile=0x7f060146;
+        public static final int toast_nick_not_isnull=0x7f060147;
+        public static final int toast_no_support=0x7f060148;
+        public static final int toast_updatenick_fail=0x7f060149;
+        public static final int toast_updatenick_success=0x7f06014a;
+        public static final int toast_updatephoto_fail=0x7f06014b;
+        public static final int toast_updatephoto_success=0x7f06014c;
+        public static final int umeng_common_action_cancel=0x7f06014d;
+        public static final int umeng_common_action_continue=0x7f06014e;
+        public static final int umeng_common_action_info_exist=0x7f06014f;
+        public static final int umeng_common_action_pause=0x7f060150;
+        public static final int umeng_common_download_failed=0x7f060151;
+        public static final int umeng_common_download_finish=0x7f060152;
+        public static final int umeng_common_download_notification_prefix=0x7f060153;
+        public static final int umeng_common_icon=0x7f060154;
+        public static final int umeng_common_info_interrupt=0x7f060155;
+        public static final int umeng_common_network_break_alert=0x7f060156;
+        public static final int umeng_common_patch_finish=0x7f060157;
+        public static final int umeng_common_pause_notification_prefix=0x7f060158;
+        public static final int umeng_common_silent_download_finish=0x7f060159;
+        public static final int umeng_common_start_download_notification=0x7f06015a;
+        public static final int umeng_common_start_patch_notification=0x7f06015b;
+        public static final int unable_to_connect=0x7f06006e;
+        public static final int unable_to_get_loaction=0x7f06015c;
+        public static final int update_black_list=0x7f06015d;
+        public static final int update_black_list_failed=0x7f06015e;
+        public static final int update_contact_list=0x7f06015f;
+        public static final int update_contact_list_failed=0x7f060160;
+        public static final int update_groups=0x7f060161;
+        public static final int update_groups_failed=0x7f060162;
+        public static final int user_already_in_contactlist=0x7f060163;
+        public static final int user_card=0x7f06006f;
+        public static final int user_name=0x7f060070;
+        public static final int user_removed_from_group=0x7f060164;
+        public static final int video=0x7f060071;
+        public static final int video_call=0x7f060165;
+        public static final int voice=0x7f060072;
+        public static final int voice_call=0x7f060073;
+        public static final int voice_prefix=0x7f060166;
+        public static final int yangshengqi=0x7f060074;
+        public static final int you_are_group=0x7f060167;
     }
     public static final class style {
         public static final int AnimBottom=0x7f080003;
@@ -1828,8 +1828,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ContactItemView_contactItemImage com.hyphenate.chatuidemo:contactItemImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #ContactItemView_contactItemName com.hyphenate.chatuidemo:contactItemName}</code></td><td></td></tr>
+           <tr><td><code>{@link #ContactItemView_contactItemImage com.fysl.app:contactItemImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #ContactItemView_contactItemName com.fysl.app:contactItemName}</code></td><td></td></tr>
            </table>
            @see #ContactItemView_contactItemImage
            @see #ContactItemView_contactItemName
@@ -1838,17 +1838,17 @@ containing a value of this type.
             0x7f010000, 0x7f010001
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#contactItemImage}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#contactItemImage}
           attribute's value can be found in the {@link #ContactItemView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:contactItemImage
+          @attr name com.fysl.app:contactItemImage
         */
         public static final int ContactItemView_contactItemImage = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#contactItemName}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#contactItemName}
           attribute's value can be found in the {@link #ContactItemView} array.
 
 
@@ -1858,7 +1858,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:contactItemName
+          @attr name com.fysl.app:contactItemName
         */
         public static final int ContactItemView_contactItemName = 1;
         /** Attributes that can be used with a EaseChatExtendMenu.
@@ -1867,7 +1867,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseChatExtendMenu_numColumns com.hyphenate.chatuidemo:numColumns}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseChatExtendMenu_numColumns com.fysl.app:numColumns}</code></td><td></td></tr>
            </table>
            @see #EaseChatExtendMenu_numColumns
          */
@@ -1875,7 +1875,7 @@ containing a value of this type.
             0x7f010002
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#numColumns}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#numColumns}
           attribute's value can be found in the {@link #EaseChatExtendMenu} array.
 
 
@@ -1885,7 +1885,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:numColumns
+          @attr name com.fysl.app:numColumns
         */
         public static final int EaseChatExtendMenu_numColumns = 0;
         /** Attributes that can be used with a EaseChatMessageList.
@@ -1894,10 +1894,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseChatMessageList_msgListMyBubbleBackground com.hyphenate.chatuidemo:msgListMyBubbleBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseChatMessageList_msgListOtherBubbleBackground com.hyphenate.chatuidemo:msgListOtherBubbleBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseChatMessageList_msgListShowUserAvatar com.hyphenate.chatuidemo:msgListShowUserAvatar}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseChatMessageList_msgListShowUserNick com.hyphenate.chatuidemo:msgListShowUserNick}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseChatMessageList_msgListMyBubbleBackground com.fysl.app:msgListMyBubbleBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseChatMessageList_msgListOtherBubbleBackground com.fysl.app:msgListOtherBubbleBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseChatMessageList_msgListShowUserAvatar com.fysl.app:msgListShowUserAvatar}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseChatMessageList_msgListShowUserNick com.fysl.app:msgListShowUserNick}</code></td><td></td></tr>
            </table>
            @see #EaseChatMessageList_msgListMyBubbleBackground
            @see #EaseChatMessageList_msgListOtherBubbleBackground
@@ -1908,27 +1908,27 @@ containing a value of this type.
             0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#msgListMyBubbleBackground}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#msgListMyBubbleBackground}
           attribute's value can be found in the {@link #EaseChatMessageList} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:msgListMyBubbleBackground
+          @attr name com.fysl.app:msgListMyBubbleBackground
         */
         public static final int EaseChatMessageList_msgListMyBubbleBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#msgListOtherBubbleBackground}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#msgListOtherBubbleBackground}
           attribute's value can be found in the {@link #EaseChatMessageList} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:msgListOtherBubbleBackground
+          @attr name com.fysl.app:msgListOtherBubbleBackground
         */
         public static final int EaseChatMessageList_msgListOtherBubbleBackground = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#msgListShowUserAvatar}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#msgListShowUserAvatar}
           attribute's value can be found in the {@link #EaseChatMessageList} array.
 
 
@@ -1938,11 +1938,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:msgListShowUserAvatar
+          @attr name com.fysl.app:msgListShowUserAvatar
         */
         public static final int EaseChatMessageList_msgListShowUserAvatar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#msgListShowUserNick}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#msgListShowUserNick}
           attribute's value can be found in the {@link #EaseChatMessageList} array.
 
 
@@ -1952,7 +1952,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:msgListShowUserNick
+          @attr name com.fysl.app:msgListShowUserNick
         */
         public static final int EaseChatMessageList_msgListShowUserNick = 3;
         /** Attributes that can be used with a EaseContactList.
@@ -1961,11 +1961,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseContactList_ctsListInitialLetterBg com.hyphenate.chatuidemo:ctsListInitialLetterBg}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseContactList_ctsListInitialLetterColor com.hyphenate.chatuidemo:ctsListInitialLetterColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseContactList_ctsListPrimaryTextColor com.hyphenate.chatuidemo:ctsListPrimaryTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseContactList_ctsListPrimaryTextSize com.hyphenate.chatuidemo:ctsListPrimaryTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseContactList_ctsListShowSiderBar com.hyphenate.chatuidemo:ctsListShowSiderBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseContactList_ctsListInitialLetterBg com.fysl.app:ctsListInitialLetterBg}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseContactList_ctsListInitialLetterColor com.fysl.app:ctsListInitialLetterColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseContactList_ctsListPrimaryTextColor com.fysl.app:ctsListPrimaryTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseContactList_ctsListPrimaryTextSize com.fysl.app:ctsListPrimaryTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseContactList_ctsListShowSiderBar com.fysl.app:ctsListShowSiderBar}</code></td><td></td></tr>
            </table>
            @see #EaseContactList_ctsListInitialLetterBg
            @see #EaseContactList_ctsListInitialLetterColor
@@ -1978,7 +1978,7 @@ containing a value of this type.
             0x7f01000b
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ctsListInitialLetterBg}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ctsListInitialLetterBg}
           attribute's value can be found in the {@link #EaseContactList} array.
 
 
@@ -1986,11 +1986,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.chatuidemo:ctsListInitialLetterBg
+          @attr name com.fysl.app:ctsListInitialLetterBg
         */
         public static final int EaseContactList_ctsListInitialLetterBg = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ctsListInitialLetterColor}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ctsListInitialLetterColor}
           attribute's value can be found in the {@link #EaseContactList} array.
 
 
@@ -2001,11 +2001,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:ctsListInitialLetterColor
+          @attr name com.fysl.app:ctsListInitialLetterColor
         */
         public static final int EaseContactList_ctsListInitialLetterColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ctsListPrimaryTextColor}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ctsListPrimaryTextColor}
           attribute's value can be found in the {@link #EaseContactList} array.
 
 
@@ -2016,11 +2016,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:ctsListPrimaryTextColor
+          @attr name com.fysl.app:ctsListPrimaryTextColor
         */
         public static final int EaseContactList_ctsListPrimaryTextColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ctsListPrimaryTextSize}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ctsListPrimaryTextSize}
           attribute's value can be found in the {@link #EaseContactList} array.
 
 
@@ -2032,11 +2032,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:ctsListPrimaryTextSize
+          @attr name com.fysl.app:ctsListPrimaryTextSize
         */
         public static final int EaseContactList_ctsListPrimaryTextSize = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ctsListShowSiderBar}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ctsListShowSiderBar}
           attribute's value can be found in the {@link #EaseContactList} array.
 
 
@@ -2046,7 +2046,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:ctsListShowSiderBar
+          @attr name com.fysl.app:ctsListShowSiderBar
         */
         public static final int EaseContactList_ctsListShowSiderBar = 2;
         /** Attributes that can be used with a EaseConversationList.
@@ -2055,12 +2055,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListPrimaryTextColor com.hyphenate.chatuidemo:cvsListPrimaryTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListPrimaryTextSize com.hyphenate.chatuidemo:cvsListPrimaryTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListSecondaryTextColor com.hyphenate.chatuidemo:cvsListSecondaryTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListSecondaryTextSize com.hyphenate.chatuidemo:cvsListSecondaryTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListTimeTextColor com.hyphenate.chatuidemo:cvsListTimeTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListTimeTextSize com.hyphenate.chatuidemo:cvsListTimeTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListPrimaryTextColor com.fysl.app:cvsListPrimaryTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListPrimaryTextSize com.fysl.app:cvsListPrimaryTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListSecondaryTextColor com.fysl.app:cvsListSecondaryTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListSecondaryTextSize com.fysl.app:cvsListSecondaryTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListTimeTextColor com.fysl.app:cvsListTimeTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListTimeTextSize com.fysl.app:cvsListTimeTextSize}</code></td><td></td></tr>
            </table>
            @see #EaseConversationList_cvsListPrimaryTextColor
            @see #EaseConversationList_cvsListPrimaryTextSize
@@ -2074,7 +2074,7 @@ containing a value of this type.
             0x7f010010, 0x7f010011
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#cvsListPrimaryTextColor}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#cvsListPrimaryTextColor}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2085,11 +2085,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:cvsListPrimaryTextColor
+          @attr name com.fysl.app:cvsListPrimaryTextColor
         */
         public static final int EaseConversationList_cvsListPrimaryTextColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#cvsListPrimaryTextSize}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#cvsListPrimaryTextSize}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2101,11 +2101,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:cvsListPrimaryTextSize
+          @attr name com.fysl.app:cvsListPrimaryTextSize
         */
         public static final int EaseConversationList_cvsListPrimaryTextSize = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#cvsListSecondaryTextColor}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#cvsListSecondaryTextColor}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2116,11 +2116,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:cvsListSecondaryTextColor
+          @attr name com.fysl.app:cvsListSecondaryTextColor
         */
         public static final int EaseConversationList_cvsListSecondaryTextColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#cvsListSecondaryTextSize}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#cvsListSecondaryTextSize}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2132,11 +2132,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:cvsListSecondaryTextSize
+          @attr name com.fysl.app:cvsListSecondaryTextSize
         */
         public static final int EaseConversationList_cvsListSecondaryTextSize = 4;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#cvsListTimeTextColor}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#cvsListTimeTextColor}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2147,11 +2147,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:cvsListTimeTextColor
+          @attr name com.fysl.app:cvsListTimeTextColor
         */
         public static final int EaseConversationList_cvsListTimeTextColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#cvsListTimeTextSize}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#cvsListTimeTextSize}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2163,7 +2163,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:cvsListTimeTextSize
+          @attr name com.fysl.app:cvsListTimeTextSize
         */
         public static final int EaseConversationList_cvsListTimeTextSize = 5;
         /** Attributes that can be used with a EaseEmojiconMenu.
@@ -2172,8 +2172,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseEmojiconMenu_bigEmojiconRows com.hyphenate.chatuidemo:bigEmojiconRows}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseEmojiconMenu_emojiconColumns com.hyphenate.chatuidemo:emojiconColumns}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseEmojiconMenu_bigEmojiconRows com.fysl.app:bigEmojiconRows}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseEmojiconMenu_emojiconColumns com.fysl.app:emojiconColumns}</code></td><td></td></tr>
            </table>
            @see #EaseEmojiconMenu_bigEmojiconRows
            @see #EaseEmojiconMenu_emojiconColumns
@@ -2182,7 +2182,7 @@ containing a value of this type.
             0x7f010012, 0x7f010013
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#bigEmojiconRows}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#bigEmojiconRows}
           attribute's value can be found in the {@link #EaseEmojiconMenu} array.
 
 
@@ -2192,11 +2192,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:bigEmojiconRows
+          @attr name com.fysl.app:bigEmojiconRows
         */
         public static final int EaseEmojiconMenu_bigEmojiconRows = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#emojiconColumns}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#emojiconColumns}
           attribute's value can be found in the {@link #EaseEmojiconMenu} array.
 
 
@@ -2206,7 +2206,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:emojiconColumns
+          @attr name com.fysl.app:emojiconColumns
         */
         public static final int EaseEmojiconMenu_emojiconColumns = 1;
         /** Attributes that can be used with a EaseSwitchButton.
@@ -2215,9 +2215,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseSwitchButton_switchCloseImage com.hyphenate.chatuidemo:switchCloseImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseSwitchButton_switchOpenImage com.hyphenate.chatuidemo:switchOpenImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseSwitchButton_switchStatus com.hyphenate.chatuidemo:switchStatus}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseSwitchButton_switchCloseImage com.fysl.app:switchCloseImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseSwitchButton_switchOpenImage com.fysl.app:switchOpenImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseSwitchButton_switchStatus com.fysl.app:switchStatus}</code></td><td></td></tr>
            </table>
            @see #EaseSwitchButton_switchCloseImage
            @see #EaseSwitchButton_switchOpenImage
@@ -2227,27 +2227,27 @@ containing a value of this type.
             0x7f010014, 0x7f010015, 0x7f010016
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#switchCloseImage}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#switchCloseImage}
           attribute's value can be found in the {@link #EaseSwitchButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:switchCloseImage
+          @attr name com.fysl.app:switchCloseImage
         */
         public static final int EaseSwitchButton_switchCloseImage = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#switchOpenImage}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#switchOpenImage}
           attribute's value can be found in the {@link #EaseSwitchButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:switchOpenImage
+          @attr name com.fysl.app:switchOpenImage
         */
         public static final int EaseSwitchButton_switchOpenImage = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#switchStatus}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#switchStatus}
           attribute's value can be found in the {@link #EaseSwitchButton} array.
 
 
@@ -2260,7 +2260,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>open</code></td><td>0</td><td></td></tr>
 <tr><td><code>close</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.hyphenate.chatuidemo:switchStatus
+          @attr name com.fysl.app:switchStatus
         */
         public static final int EaseSwitchButton_switchStatus = 2;
         /** Attributes that can be used with a EaseTitleBar.
@@ -2269,10 +2269,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseTitleBar_titleBarBackground com.hyphenate.chatuidemo:titleBarBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseTitleBar_titleBarLeftImage com.hyphenate.chatuidemo:titleBarLeftImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseTitleBar_titleBarRightImage com.hyphenate.chatuidemo:titleBarRightImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseTitleBar_titleBarTitle com.hyphenate.chatuidemo:titleBarTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseTitleBar_titleBarBackground com.fysl.app:titleBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseTitleBar_titleBarLeftImage com.fysl.app:titleBarLeftImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseTitleBar_titleBarRightImage com.fysl.app:titleBarRightImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseTitleBar_titleBarTitle com.fysl.app:titleBarTitle}</code></td><td></td></tr>
            </table>
            @see #EaseTitleBar_titleBarBackground
            @see #EaseTitleBar_titleBarLeftImage
@@ -2283,7 +2283,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010017, 0x7f010018, 0x7f010019, 0x7f01001a
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#titleBarBackground}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#titleBarBackground}
           attribute's value can be found in the {@link #EaseTitleBar} array.
 
 
@@ -2291,31 +2291,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.chatuidemo:titleBarBackground
+          @attr name com.fysl.app:titleBarBackground
         */
         public static final int EaseTitleBar_titleBarBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#titleBarLeftImage}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#titleBarLeftImage}
           attribute's value can be found in the {@link #EaseTitleBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:titleBarLeftImage
+          @attr name com.fysl.app:titleBarLeftImage
         */
         public static final int EaseTitleBar_titleBarLeftImage = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#titleBarRightImage}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#titleBarRightImage}
           attribute's value can be found in the {@link #EaseTitleBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:titleBarRightImage
+          @attr name com.fysl.app:titleBarRightImage
         */
         public static final int EaseTitleBar_titleBarRightImage = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#titleBarTitle}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#titleBarTitle}
           attribute's value can be found in the {@link #EaseTitleBar} array.
 
 
@@ -2325,7 +2325,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.chatuidemo:titleBarTitle
+          @attr name com.fysl.app:titleBarTitle
         */
         public static final int EaseTitleBar_titleBarTitle = 0;
         /** Attributes that can be used with a PullToRefresh.
@@ -2334,25 +2334,25 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrAdapterViewBackground com.hyphenate.chatuidemo:ptrAdapterViewBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrAnimationStyle com.hyphenate.chatuidemo:ptrAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrDrawable com.hyphenate.chatuidemo:ptrDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrDrawableBottom com.hyphenate.chatuidemo:ptrDrawableBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrDrawableEnd com.hyphenate.chatuidemo:ptrDrawableEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrDrawableStart com.hyphenate.chatuidemo:ptrDrawableStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrDrawableTop com.hyphenate.chatuidemo:ptrDrawableTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrHeaderBackground com.hyphenate.chatuidemo:ptrHeaderBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrHeaderSubTextColor com.hyphenate.chatuidemo:ptrHeaderSubTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrHeaderTextAppearance com.hyphenate.chatuidemo:ptrHeaderTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrHeaderTextColor com.hyphenate.chatuidemo:ptrHeaderTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrListViewExtrasEnabled com.hyphenate.chatuidemo:ptrListViewExtrasEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrMode com.hyphenate.chatuidemo:ptrMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrOverScroll com.hyphenate.chatuidemo:ptrOverScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrRefreshableViewBackground com.hyphenate.chatuidemo:ptrRefreshableViewBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrRotateDrawableWhilePulling com.hyphenate.chatuidemo:ptrRotateDrawableWhilePulling}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrScrollingWhileRefreshingEnabled com.hyphenate.chatuidemo:ptrScrollingWhileRefreshingEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrShowIndicator com.hyphenate.chatuidemo:ptrShowIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #PullToRefresh_ptrSubHeaderTextAppearance com.hyphenate.chatuidemo:ptrSubHeaderTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrAdapterViewBackground com.fysl.app:ptrAdapterViewBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrAnimationStyle com.fysl.app:ptrAnimationStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrDrawable com.fysl.app:ptrDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrDrawableBottom com.fysl.app:ptrDrawableBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrDrawableEnd com.fysl.app:ptrDrawableEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrDrawableStart com.fysl.app:ptrDrawableStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrDrawableTop com.fysl.app:ptrDrawableTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrHeaderBackground com.fysl.app:ptrHeaderBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrHeaderSubTextColor com.fysl.app:ptrHeaderSubTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrHeaderTextAppearance com.fysl.app:ptrHeaderTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrHeaderTextColor com.fysl.app:ptrHeaderTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrListViewExtrasEnabled com.fysl.app:ptrListViewExtrasEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrMode com.fysl.app:ptrMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrOverScroll com.fysl.app:ptrOverScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrRefreshableViewBackground com.fysl.app:ptrRefreshableViewBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrRotateDrawableWhilePulling com.fysl.app:ptrRotateDrawableWhilePulling}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrScrollingWhileRefreshingEnabled com.fysl.app:ptrScrollingWhileRefreshingEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrShowIndicator com.fysl.app:ptrShowIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #PullToRefresh_ptrSubHeaderTextAppearance com.fysl.app:ptrSubHeaderTextAppearance}</code></td><td></td></tr>
            </table>
            @see #PullToRefresh_ptrAdapterViewBackground
            @see #PullToRefresh_ptrAnimationStyle
@@ -2382,7 +2382,7 @@ containing a value of this type.
             0x7f01002b, 0x7f01002c, 0x7f01002d
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrAdapterViewBackground}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrAdapterViewBackground}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2390,11 +2390,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrAdapterViewBackground
+          @attr name com.fysl.app:ptrAdapterViewBackground
         */
         public static final int PullToRefresh_ptrAdapterViewBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrAnimationStyle}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrAnimationStyle}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2407,61 +2407,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>rotate</code></td><td>0x0</td><td></td></tr>
 <tr><td><code>flip</code></td><td>0x1</td><td></td></tr>
 </table>
-          @attr name com.hyphenate.chatuidemo:ptrAnimationStyle
+          @attr name com.fysl.app:ptrAnimationStyle
         */
         public static final int PullToRefresh_ptrAnimationStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrDrawable}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrDrawable}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrDrawable
+          @attr name com.fysl.app:ptrDrawable
         */
         public static final int PullToRefresh_ptrDrawable = 6;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrDrawableBottom}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrDrawableBottom}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrDrawableBottom
+          @attr name com.fysl.app:ptrDrawableBottom
         */
         public static final int PullToRefresh_ptrDrawableBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrDrawableEnd}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrDrawableEnd}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrDrawableEnd
+          @attr name com.fysl.app:ptrDrawableEnd
         */
         public static final int PullToRefresh_ptrDrawableEnd = 8;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrDrawableStart}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrDrawableStart}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrDrawableStart
+          @attr name com.fysl.app:ptrDrawableStart
         */
         public static final int PullToRefresh_ptrDrawableStart = 7;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrDrawableTop}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrDrawableTop}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrDrawableTop
+          @attr name com.fysl.app:ptrDrawableTop
         */
         public static final int PullToRefresh_ptrDrawableTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrHeaderBackground}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrHeaderBackground}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2469,11 +2469,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrHeaderBackground
+          @attr name com.fysl.app:ptrHeaderBackground
         */
         public static final int PullToRefresh_ptrHeaderBackground = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrHeaderSubTextColor}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrHeaderSubTextColor}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2481,21 +2481,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrHeaderSubTextColor
+          @attr name com.fysl.app:ptrHeaderSubTextColor
         */
         public static final int PullToRefresh_ptrHeaderSubTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrHeaderTextAppearance}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrHeaderTextAppearance}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrHeaderTextAppearance
+          @attr name com.fysl.app:ptrHeaderTextAppearance
         */
         public static final int PullToRefresh_ptrHeaderTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrHeaderTextColor}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrHeaderTextColor}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2503,22 +2503,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrHeaderTextColor
+          @attr name com.fysl.app:ptrHeaderTextColor
         */
         public static final int PullToRefresh_ptrHeaderTextColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrListViewExtrasEnabled}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrListViewExtrasEnabled}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.hyphenate.chatuidemo:ptrListViewExtrasEnabled
+          @attr name com.fysl.app:ptrListViewExtrasEnabled
         */
         public static final int PullToRefresh_ptrListViewExtrasEnabled = 14;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrMode}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrMode}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2536,22 +2536,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pullDownFromTop</code></td><td>0x1</td><td></td></tr>
 <tr><td><code>pullUpFromBottom</code></td><td>0x2</td><td></td></tr>
 </table>
-          @attr name com.hyphenate.chatuidemo:ptrMode
+          @attr name com.fysl.app:ptrMode
         */
         public static final int PullToRefresh_ptrMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrOverScroll}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrOverScroll}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.hyphenate.chatuidemo:ptrOverScroll
+          @attr name com.fysl.app:ptrOverScroll
         */
         public static final int PullToRefresh_ptrOverScroll = 9;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrRefreshableViewBackground}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrRefreshableViewBackground}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
@@ -2559,50 +2559,50 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrRefreshableViewBackground
+          @attr name com.fysl.app:ptrRefreshableViewBackground
         */
         public static final int PullToRefresh_ptrRefreshableViewBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrRotateDrawableWhilePulling}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrRotateDrawableWhilePulling}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.hyphenate.chatuidemo:ptrRotateDrawableWhilePulling
+          @attr name com.fysl.app:ptrRotateDrawableWhilePulling
         */
         public static final int PullToRefresh_ptrRotateDrawableWhilePulling = 15;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrScrollingWhileRefreshingEnabled}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrScrollingWhileRefreshingEnabled}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.hyphenate.chatuidemo:ptrScrollingWhileRefreshingEnabled
+          @attr name com.fysl.app:ptrScrollingWhileRefreshingEnabled
         */
         public static final int PullToRefresh_ptrScrollingWhileRefreshingEnabled = 13;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrShowIndicator}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrShowIndicator}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.hyphenate.chatuidemo:ptrShowIndicator
+          @attr name com.fysl.app:ptrShowIndicator
         */
         public static final int PullToRefresh_ptrShowIndicator = 5;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.chatuidemo.R.attr#ptrSubHeaderTextAppearance}
+          <p>This symbol is the offset where the {@link com.fysl.app.R.attr#ptrSubHeaderTextAppearance}
           attribute's value can be found in the {@link #PullToRefresh} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.chatuidemo:ptrSubHeaderTextAppearance
+          @attr name com.fysl.app:ptrSubHeaderTextAppearance
         */
         public static final int PullToRefresh_ptrSubHeaderTextAppearance = 11;
     };

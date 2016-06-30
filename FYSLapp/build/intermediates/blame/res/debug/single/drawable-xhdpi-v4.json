@@ -224,12 +224,12 @@
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-xhdpi\\icon_profile_n.png"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_conversation_selected.png",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-xhdpi\\em_conversation_selected.png"
-    },
-    {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_chat_takepic_pressed.png",
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable-xhdpi-v4\\ease_chat_takepic_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_conversation_selected.png",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-xhdpi\\em_conversation_selected.png"
     },
     {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
@@ -360,12 +360,12 @@
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-xhdpi\\em_app_panel_video_icon.9.png"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_icon_mute_normal.png",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-xhdpi\\em_icon_mute_normal.png"
-    },
-    {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_splash_logo.png",
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-xhdpi\\em_splash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_icon_mute_normal.png",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable-xhdpi\\em_icon_mute_normal.png"
     },
     {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_chat_video_normal.png",

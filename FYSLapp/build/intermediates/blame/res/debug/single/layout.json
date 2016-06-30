@@ -420,12 +420,12 @@
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\layout\\activity_userdetail.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_chat_primary_menu.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\layout\\ease_layout_chat_primary_menu.xml"
-    },
-    {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_first.xml",
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\layout\\ease_layout_chat_primary_menu.xml"
     },
     {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video_call.xml",
@@ -436,12 +436,12 @@
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\layout\\em_context_menu_for_location.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\layout\\em_listview_footer_view.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\layout\\em_listview_footer_view.xml"
-    },
-    {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\layout\\em_fragment_robots.xml",
         "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\layout\\em_fragment_robots.xml"
+    },
+    {
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\layout\\em_listview_footer_view.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\layout\\em_listview_footer_view.xml"
     },
     {
         "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_add_group.xml",

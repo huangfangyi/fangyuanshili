@@ -1,414 +1,414 @@
 [
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_voice_call_hangup_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_voice_call_hangup_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_error_item_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_chat_error_item_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_voice_call_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_chat_voice_call_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_chatto_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_pressed_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_gray_pressed_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_white_pressed_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_white_pressed_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_corner_2.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\fy_corner_2.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_button_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_press_speak_btn.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_chat_press_speak_btn.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_btn_list_item_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\fy_btn_list_item_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_image_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_chat_image_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_normal_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_button_normal_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_mm_title_act_btn.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_mm_title_act_btn.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_sidebar_background_pressed.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_sidebar_background_pressed.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_camera_switch_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_camera_switch_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_send_btn_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_chat_send_btn_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_corner_gray.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\fy_corner_gray.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_image_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_chat_image_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_circular_white.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\fy_circular_white.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_green_normal_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_green_normal_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_common_tab_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_common_tab_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_common_gradient_green.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_white_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_white_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_common_gradient_orange.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_takepic_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_chat_takepic_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_things_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\tab_things_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_main_bottom_item_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_main_bottom_item_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_edittext_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\fy_edittext_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_sidebar_background_pressed.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_sidebar_background_pressed.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_msg_state_failed_resend.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_msg_state_failed_resend.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_roominfo_add_btn.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_roominfo_add_btn.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_logout_pressed_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_logout_pressed_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_file_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_chat_file_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_nickename_input_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_nickename_input_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_normal_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_blue_normal_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_button_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_corner_white.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\fy_corner_white.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_splash_gradient.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_splash_gradient.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_hint_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_recording_hint_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_logout_normal_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_logout_normal_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_corner_3.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\fy_corner_3.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_corner_3.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\fy_corner_3.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem_grey.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_mm_listitem_grey.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_checkbox_bg_gray_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_checkbox_bg_gray_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_myprofile_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_button_myprofile_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatfrom_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_chatfrom_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_common_tab_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_common_tab_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_profile_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\tab_profile_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_red_circle.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_red_circle.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_edittext_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\fy_edittext_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_selector_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_button_selector_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_corner_1.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\fy_corner_1.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_circular.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\fy_circular.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_btn_green_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\fy_btn_green_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_bj.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_cancel_bj.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem_grey.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_mm_listitem_grey.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_type_select_btn.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_type_select_btn.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_myprofile_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_button_myprofile_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_style_alert_dialog_special.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_style_alert_dialog_special.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_edit_text_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_white_normal_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_white_normal_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_search_clear.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_search_clear.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_edit_text_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_circular.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\fy_circular.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_green_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_green_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_takepic_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_chat_takepic_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_blue_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_white_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_white_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_keyboard_btn.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_voice_call_hangup_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_voice_call_hangup_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_msg_state_failed_resend.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_msg_state_failed_resend.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_keyboard_btn.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_circular_white.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\fy_circular_white.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_add_btn.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_smiley_add_btn.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_checkbox_bg_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_checkbox_bg_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_bottom_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_bottom_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_answer_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_call_answer_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_add_btn.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_smiley_add_btn.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_recording_text_hint_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_type_select_btn.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_type_select_btn.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bar_back.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\top_bar_back.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_error_item_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_chat_error_item_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_green_normal_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_green_normal_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_selector_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_button_selector_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_checkbox_bg_gray_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_checkbox_bg_gray_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_hint_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_recording_hint_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_main_bottom_item_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_main_bottom_item_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_red_circle.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_red_circle.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_green_pressed_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_green_pressed_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_timestampe_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_timestampe_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_button_check_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_normal_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_gray_normal_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_context_menu_item_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_context_menu_item_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_mm_title_act_btn.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_mm_title_act_btn.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_gray_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_common_gradient_red.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_pressed_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_gray_pressed_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_login_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_button_login_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_register_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_button_register_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_normal_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_cancel_normal_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_send_btn_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_chat_send_btn_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_wifi_disable.png",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_wifi_disable.png"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_profile_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\tab_profile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_camera_switch_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_camera_switch_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_appitem_del_btn.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_appitem_del_btn.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_splash_gradient.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_splash_gradient.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_common_gradient_orange.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_press_speak_btn.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_chat_press_speak_btn.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_item_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\tb_munion_item_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_item_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\tb_munion_item_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_minus_btn.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_smiley_minus_btn.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bar_back.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\top_bar_back.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_common_gradient_green.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_roominfo_add_btn.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_roominfo_add_btn.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_logout_pressed_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_logout_pressed_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_title_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_btn_list_item_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\fy_btn_list_item_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_corner_white.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\fy_corner_white.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\tab_chat_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_location_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_chat_location_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_normal_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_blue_normal_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_video_call_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_chat_video_call_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_normal_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_button_normal_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_dialog_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_normal_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_gray_normal_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_corner_2.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\fy_corner_2.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_answer_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_call_answer_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_logout_normal_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_logout_normal_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_green_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_green_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_file_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_chat_file_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_green_pressed_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_green_pressed_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_mm_listitem.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_check_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_title_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_blue_pressed_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_blue_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_people_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\tab_people_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_people_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\tab_people_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_hangup_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_call_hangup_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_style_alert_dialog_special.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_style_alert_dialog_special.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_login_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_button_login_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_corner_gray.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\fy_corner_gray.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_checkbox_bg_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_checkbox_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_video_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_chat_video_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_video_call_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_chat_video_call_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_photogrid_list_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_photogrid_list_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_dialog_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatfrom_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_chatfrom_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_white_pressed_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_white_pressed_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_things_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\tab_things_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_white_normal_shape.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_white_normal_shape.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_video_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_chat_video_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_register_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_button_register_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_wifi_disable.png",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_update_wifi_disable.png"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_context_menu_item_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_context_menu_item_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_blue_pressed_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_nickename_input_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_nickename_input_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_corner_1.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\fy_corner_1.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_icon.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\tb_munion_icon.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_photogrid_list_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_photogrid_list_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_minus_btn.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_smiley_minus_btn.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_bottom_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_btn_bottom_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\em_btn_gray_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_timestampe_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_timestampe_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_bj.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_cancel_bj.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_voice_call_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_chat_voice_call_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_recording_text_hint_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\umeng_common_gradient_red.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_mm_listitem.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\fy_btn_green_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\fy_btn_green_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_normal_shape.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_btn_cancel_normal_shape.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\tab_contact_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_icon.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\tb_munion_icon.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\tab_chat_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_search_clear.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_search_clear.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_appitem_del_btn.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_appitem_del_btn.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_hangup_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\em_call_hangup_bg.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_chatto_bg.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_location_selector.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili\\HX_Lib\\unspecified\\res\\drawable\\ease_chat_location_selector.xml"
     },
     {
-        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
-        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili0630\\FYSLapp\\build\\intermediates\\exploded-aar\\fangyuanshili0630\\HX_Lib\\unspecified\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
+        "merged": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact_bg.xml",
+        "source": "C:\\Users\\ustc\\Desktop\\Android Studio\\fangyuanshili\\FYSLapp\\res\\drawable\\tab_contact_bg.xml"
     }
 ]

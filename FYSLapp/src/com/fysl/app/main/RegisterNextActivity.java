@@ -324,6 +324,26 @@ public class RegisterNextActivity extends BaseActivity implements
 							}
 
 						});
+					}else if(json.getInteger("code") == 2000){
+
+						runOnUiThread(new Runnable() {
+
+							@Override
+							public void run() {
+                                Toast.makeText(getApplicationContext(),"该手机号已经被注册...",Toast.LENGTH_SHORT).show();
+							}
+
+						});
+					}else{
+
+						runOnUiThread(new Runnable() {
+
+							@Override
+							public void run() {
+								Toast.makeText(getApplicationContext(),"注册失败...",Toast.LENGTH_SHORT).show();
+							}
+
+						});
 					}
 
 				}
